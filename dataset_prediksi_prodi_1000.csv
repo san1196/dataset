@@ -1,0 +1,1001 @@
+nama,jenis_kelamin,jurusan_asal_sekolah,nilai_snbt,jurusan_program_studi,asal_sekolah,minat_karir
+Mahmud Santoso,L,Teknik,636.24,Teknik Industri (S1),MA Swasta,Agama
+Eka Saputra,P,Keagamaan,599.63,Pendidikan Islam Anak Usia Dini (S1),SMA Negeri,Pendidikan
+Joko Saputra,L,IPA,500.22,Teknik Elektro (S1),SMK Swasta,Ekonomi
+Gita Nugroho,P,Bahasa,480.43,Sistem Informasi (S1),SMA Swasta,Ekonomi
+Eka Utami,L,Keagamaan,522.34,Teknik Elektro (S1),SMK Swasta,Teknologi
+Budi Permata,P,Teknik,549.86,Ilmu Gizi (S1),MA Swasta,Ekonomi
+Dewi Wijaya,L,IPA,572.69,Pend. Bahasa & Sastra Indonesia (S1),MA Swasta,Agama
+Oki Rizki,P,IPS,558.9,Agribisnis (S1),MA Swasta,Teknologi
+Citra Permata,P,Bahasa,654.67,Farmasi (S1),MA Swasta,Teknologi
+Putri Nugroho,P,Keagamaan,505.64,Teknik Informatika (S1),SMA Swasta,Ekonomi
+Oki Nugroho,P,Akuntansi,583.51,Ilmu Komunikasi (S1),SMK Negeri,Ekonomi
+Tono Fadilah,L,Multimedia,518.12,Hubungan Internasional (S1),SMK Negeri,Teknologi
+Citra Utami,P,IPS,553.57,Ilmu Pemerintahan (S1),SMK Swasta,Hukum
+Joko Wulandari,P,Bahasa,544.18,Hubungan Internasional (S1),SMK Swasta,Pertanian
+Gita Santoso,L,Teknik,603.56,Pend. Matematika (S1),MA Swasta,Teknologi
+Putri Permata,P,Multimedia,715.74,Hubungan Internasional (S1),SMK Swasta,Teknologi
+Budi Fadilah,L,IPA,516.72,Pend. Bahasa & Sastra Indonesia (S1),SMA Swasta,Teknologi
+Oki Fadilah,P,Teknik,684.37,Ilmu Pemerintahan (S1),SMK Negeri,Kesehatan
+Qori Wijaya,L,IPA,582.39,Ilmu Komunikasi (S1),SMK Swasta,Agama
+Siti Permata,P,Akuntansi,676.22,Ilmu Komunikasi (S1),SMA Negeri,Sosial Politik
+Qori Saputra,P,Akuntansi,557.71,Teknik Kimia (S1),SMA Negeri,Pertanian
+Putri Nugroho,P,IPA,550.86,Teknik Kimia (S1),SMK Swasta,Teknologi
+Oki Sari,L,Teknik,634.16,Agribisnis (S1),SMA Negeri,Hukum
+Fajar Nugroho,L,Teknik,420.82,Pend. Bahasa Inggris (S1),SMA Negeri,Kesehatan
+Kiki Santoso,P,Teknik,532.34,Pend. Luar Sekolah (S1),SMA Swasta,Hukum
+Kiki Sari,L,Teknik,759.93,Pend. Matematika (S1),SMK Negeri,Pertanian
+Kiki Utami,L,Teknik,451.05,Teknik Lingkungan (S1),MA Swasta,Ekonomi
+Nina Santoso,P,IPA,541.45,Hubungan Internasional (S1),MA Swasta,Teknologi
+Dewi Nugroho,P,IPA,530.09,Ilmu Gizi (S1),SMA Negeri,Kesehatan
+Tono Sari,L,Bahasa,657.42,Pend. Luar Sekolah (S1),SMA Swasta,Sosial Politik
+Dewi Utami,P,Keagamaan,598.8,Ilmu Pemerintahan (S1),MA Swasta,Kesehatan
+Dewi Sari,P,Keagamaan,628.04,Pend. Matematika (S1),SMA Swasta,Sosial Politik
+Fajar Utami,P,Multimedia,601.91,Farmasi (S1),MA Swasta,Ekonomi
+Siti Sari,P,Akuntansi,707.17,Teknik Mesin (S1),MA Swasta,Pendidikan
+Citra Wulandari,L,IPS,559.51,Teknik Kimia (S1),MA Swasta,Pertanian
+Qori Utami,L,Bahasa,569.65,Manajemen (S1),MA Swasta,Sosial Politik
+Lia Wijaya,P,IPS,577.69,Teknik Informatika (S1),SMK Negeri,Pertanian
+Dewi Fadilah,P,Bahasa,543.52,Pend. Bahasa Inggris (S1),SMK Swasta,Pertanian
+Lia Nugroho,L,Multimedia,682.73,Pend. Matematika (S1),SMA Swasta,Sosial Politik
+Mahmud Fadilah,P,IPA,736.27,Teknik Kimia (S1),SMK Negeri,Pertanian
+Budi Sari,P,IPS,455.04,Teknik Elektro (S1),SMK Negeri,Kesehatan
+Kiki Wijaya,P,Akuntansi,511.84,Hubungan Internasional (S1),SMA Swasta,Teknologi
+Gita Santoso,P,IPA,664.05,Teknik Elektro (S1),SMA Negeri,Pertanian
+Kiki Wijaya,P,Bahasa,539.67,Agroteknologi (S1),SMA Negeri,Agama
+Oki Wulandari,L,Bahasa,676.81,Pend. Bahasa Inggris (S1),SMK Swasta,Sosial Politik
+Rudi Wijaya,P,Akuntansi,382.68,Teknik Kimia (S1),SMA Swasta,Hukum
+Rudi Wijaya,L,Teknik,663.03,Ilmu Gizi (S1),SMK Negeri,Hukum
+Gita Permata,L,IPS,585.4,Teknik Informatika (S1),SMK Swasta,Sosial Politik
+Budi Permata,L,IPA,532.52,Pend. Luar Sekolah (S1),MA Swasta,Hukum
+Lia Permata,P,IPS,541.54,Sistem Informasi (S1),MA Negeri,Pertanian
+Oki Permata,P,IPA,470.56,Teknik Kimia (S1),MA Negeri,Agama
+Oki Sari,P,IPA,547.17,Teknik Mesin (S1),SMA Swasta,Agama
+Oki Santoso,P,Teknik,549.28,Manajemen Pendidikan Islam (S1),MA Negeri,Ekonomi
+Putri Wijaya,P,IPS,684.26,Farmasi (S1),SMK Swasta,Sosial Politik
+Hasan Wijaya,L,Keagamaan,534.47,Teknik Kimia (S1),SMK Negeri,Pendidikan
+Joko Saputra,L,Akuntansi,455.64,Teknik Lingkungan (S1),SMK Negeri,Teknologi
+Budi Wijaya,L,Keagamaan,672.66,Pend. Bahasa Inggris (S1),SMK Swasta,Pertanian
+Kiki Utami,P,IPS,528.02,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",MA Swasta,Agama
+Intan Nugroho,P,Bahasa,678.54,Ilmu Gizi (S1),MA Negeri,Sosial Politik
+Fajar Permata,P,Teknik,614.63,Ilmu Gizi (S1),MA Swasta,Kesehatan
+Mahmud Permata,P,Teknik,427.58,Ilmu Keolahragaan (S1),SMK Swasta,Teknologi
+Gita Wulandari,L,Bahasa,580.8,Sistem Informasi (S1),MA Swasta,Pendidikan
+Budi Wulandari,L,Akuntansi,545.33,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMA Swasta,Hukum
+Eka Sari,P,Akuntansi,345.07,Ilmu Keolahragaan (S1),SMK Swasta,Sosial Politik
+Joko Nugroho,P,Keagamaan,602.5,Pend. Matematika (S1),SMK Negeri,Teknologi
+Dewi Santoso,P,Teknik,693.75,Pend. Matematika (S1),SMA Negeri,Hukum
+Oki Saputra,L,Multimedia,664.96,Akuntansi (S1),SMA Negeri,Teknologi
+Gita Utami,P,Keagamaan,536.78,Agroteknologi (S1),SMK Negeri,Agama
+Joko Nugroho,P,Bahasa,583.02,Teknik Mesin (S1),MA Swasta,Kesehatan
+Dewi Saputra,P,IPS,628.99,Manajemen (S1),MA Negeri,Kesehatan
+Nina Permata,P,Akuntansi,465.1,Agribisnis (S1),SMA Negeri,Sosial Politik
+Citra Wijaya,L,IPS,480.85,Manajemen Pendidikan Islam (S1),SMK Swasta,Kesehatan
+Tono Nugroho,L,Teknik,617.64,Pend. Agama Islam (S1),SMK Swasta,Pertanian
+Intan Permata,L,Bahasa,574.71,Teknik Industri (S1),MA Swasta,Hukum
+Nina Wulandari,L,Akuntansi,683.42,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMK Negeri,Agama
+Budi Wijaya,P,Akuntansi,596.89,Akuntansi (S1),SMA Swasta,Ekonomi
+Lia Fadilah,L,Bahasa,629.25,Teknik Mesin (S1),SMA Negeri,Pendidikan
+Joko Sari,P,Bahasa,652.74,Akuntansi (S1),MA Negeri,Ekonomi
+Kiki Wijaya,L,Teknik,373.21,Pend. Bahasa Inggris (S1),SMK Swasta,Pendidikan
+Qori Saputra,P,Keagamaan,423.27,Manajemen (S1),SMA Negeri,Agama
+Putri Wijaya,P,Multimedia,621.39,Pend. Bahasa Inggris (S1),MA Negeri,Sosial Politik
+Putri Fadilah,P,Bahasa,531.9,Ilmu Gizi (S1),MA Negeri,Teknologi
+Dewi Nugroho,P,IPS,481.72,Teknik Industri (S1),SMK Negeri,Teknologi
+Nina Fadilah,P,Teknik,729.64,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMK Negeri,Teknologi
+Kiki Fadilah,L,IPA,564.48,Ilmu Keolahragaan (S1),MA Swasta,Kesehatan
+Joko Permata,L,Teknik,543.77,Teknik Lingkungan (S1),MA Swasta,Hukum
+Hasan Wijaya,L,IPS,573.14,Teknik Kimia (S1),SMA Negeri,Pertanian
+Fajar Wijaya,P,Keagamaan,508.3,Teknik Lingkungan (S1),SMA Swasta,Pendidikan
+Kiki Wijaya,P,Teknik,343.67,Teknik Informatika (S1),SMA Swasta,Teknologi
+Kiki Fadilah,P,Keagamaan,392.5,Manajemen (S1),SMK Negeri,Teknologi
+Intan Wulandari,P,Akuntansi,488.15,Ilmu Keolahragaan (S1),MA Negeri,Kesehatan
+Putri Santoso,P,IPA,386.38,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMA Swasta,Sosial Politik
+Gita Sari,L,Teknik,771.94,Teknik Elektro (S1),SMK Swasta,Pertanian
+Citra Santoso,P,IPS,618.23,Teknik Lingkungan (S1),SMK Swasta,Hukum
+Intan Sari,L,Keagamaan,419.24,Teknik Informatika (S1),SMA Swasta,Agama
+Joko Santoso,L,Teknik,583.5,Pendidikan Islam Anak Usia Dini (S1),SMK Swasta,Teknologi
+Rudi Wijaya,P,Bahasa,526.05,Pend. Matematika (S1),SMA Swasta,Teknologi
+Fajar Nugroho,L,Bahasa,475.85,Pendidikan Islam Anak Usia Dini (S1),MA Negeri,Pertanian
+Budi Wulandari,P,Keagamaan,519.82,Hubungan Internasional (S1),SMK Swasta,Ekonomi
+Siti Fadilah,L,IPA,427.52,Pend. Agama Islam (S1),MA Swasta,Sosial Politik
+Lia Rizki,P,IPA,495.17,Manajemen Pendidikan Islam (S1),MA Swasta,Pertanian
+Citra Nugroho,L,IPS,420.41,Ilmu Keolahragaan (S1),MA Negeri,Pertanian
+Ahmad Wijaya,L,Bahasa,543.55,Teknik Lingkungan (S1),SMK Negeri,Hukum
+Eka Santoso,L,IPA,506.41,Teknik Informatika (S1),SMK Negeri,Ekonomi
+Qori Fadilah,P,Teknik,582.79,Sistem Informasi (S1),MA Negeri,Pendidikan
+Intan Permata,P,IPA,618.0,Agribisnis (S1),SMA Swasta,Kesehatan
+Kiki Saputra,P,IPA,526.53,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",MA Swasta,Sosial Politik
+Budi Utami,P,Bahasa,700.97,Manajemen Pendidikan Islam (S1),SMK Negeri,Hukum
+Qori Rizki,P,Bahasa,471.82,Sistem Informasi (S1),SMK Swasta,Pertanian
+Intan Permata,L,Akuntansi,567.9,Agroteknologi (S1),MA Swasta,Teknologi
+Ahmad Nugroho,L,IPA,466.21,Akuntansi (S1),SMK Swasta,Ekonomi
+Lia Permata,P,Multimedia,819.85,Teknik Kimia (S1),SMK Swasta,Pendidikan
+Putri Utami,L,Akuntansi,528.5,Farmasi (S1),MA Negeri,Kesehatan
+Intan Rizki,L,Akuntansi,529.07,Akuntansi (S1),MA Swasta,Kesehatan
+Citra Fadilah,L,Teknik,389.93,Teknik Kimia (S1),SMA Swasta,Pertanian
+Budi Utami,L,IPS,518.44,Teknik Mesin (S1),MA Swasta,Sosial Politik
+Oki Sari,P,Multimedia,645.18,Hubungan Internasional (S1),SMK Negeri,Hukum
+Oki Rizki,P,Teknik,750.47,Manajemen (S1),SMK Negeri,Sosial Politik
+Lia Nugroho,L,Bahasa,462.06,Pendidikan Islam Anak Usia Dini (S1),SMK Negeri,Kesehatan
+Dewi Permata,P,Teknik,676.67,Agribisnis (S1),SMA Negeri,Pertanian
+Putri Wijaya,P,Akuntansi,384.04,Ilmu Hukum (S1),SMA Negeri,Pendidikan
+Kiki Wijaya,P,Bahasa,633.81,Ilmu Gizi (S1),SMA Negeri,Hukum
+Dewi Sari,L,Teknik,430.2,Teknik Kimia (S1),SMA Swasta,Pertanian
+Qori Santoso,L,Bahasa,235.76,Teknik Lingkungan (S1),MA Negeri,Pendidikan
+Intan Rizki,L,Bahasa,482.53,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMA Negeri,Pendidikan
+Budi Rizki,L,Bahasa,492.28,Agribisnis (S1),SMA Swasta,Pendidikan
+Dewi Santoso,L,Teknik,454.8,Ilmu Komunikasi (S1),SMA Swasta,Pertanian
+Kiki Fadilah,L,Multimedia,631.61,Farmasi (S1),SMA Negeri,Ekonomi
+Kiki Saputra,L,IPA,507.49,Agribisnis (S1),MA Swasta,Sosial Politik
+Oki Saputra,L,Bahasa,597.06,Ilmu Keolahragaan (S1),SMK Negeri,Ekonomi
+Mahmud Rizki,P,Teknik,577.46,Pendidikan Islam Anak Usia Dini (S1),MA Swasta,Agama
+Oki Permata,P,Akuntansi,592.64,Farmasi (S1),SMA Negeri,Kesehatan
+Oki Utami,P,Teknik,538.8,Ilmu Keolahragaan (S1),MA Negeri,Agama
+Gita Rizki,P,Bahasa,653.8,Ilmu Komunikasi (S1),SMA Swasta,Pertanian
+Mahmud Santoso,L,Keagamaan,574.25,Pend. Bahasa & Sastra Indonesia (S1),SMK Negeri,Pendidikan
+Budi Permata,L,IPS,626.83,Ilmu Pemerintahan (S1),SMA Negeri,Pendidikan
+Rudi Santoso,P,IPS,698.45,Teknik Informatika (S1),MA Swasta,Agama
+Nina Rizki,P,Teknik,555.33,Pendidikan Islam Anak Usia Dini (S1),SMK Swasta,Agama
+Nina Utami,L,IPA,644.75,Agroteknologi (S1),SMK Negeri,Pendidikan
+Putri Fadilah,L,IPA,607.78,Teknik Elektro (S1),SMK Negeri,Teknologi
+Ahmad Saputra,L,Akuntansi,802.9,Teknik Industri (S1),MA Negeri,Hukum
+Oki Utami,P,Multimedia,394.81,Farmasi (S1),SMK Negeri,Kesehatan
+Tono Saputra,P,IPA,486.23,Agribisnis (S1),MA Negeri,Pendidikan
+Intan Utami,L,Keagamaan,501.62,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMA Swasta,Pendidikan
+Citra Fadilah,L,Keagamaan,606.65,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMA Swasta,Ekonomi
+Oki Wijaya,P,Teknik,626.7,Teknik Elektro (S1),MA Swasta,Hukum
+Joko Saputra,P,Teknik,610.52,Pend. Agama Islam (S1),MA Negeri,Teknologi
+Ahmad Permata,L,Akuntansi,470.2,Teknik Kimia (S1),MA Swasta,Kesehatan
+Lia Santoso,L,IPS,417.7,Ilmu Pemerintahan (S1),MA Negeri,Teknologi
+Kiki Wijaya,L,Teknik,589.2,Pend. Luar Sekolah (S1),SMA Swasta,Sosial Politik
+Ahmad Utami,L,IPA,405.37,Teknik Elektro (S1),MA Negeri,Teknologi
+Dewi Saputra,P,Keagamaan,491.97,Teknik Kimia (S1),SMA Negeri,Agama
+Tono Wijaya,L,Bahasa,630.56,Ilmu Pemerintahan (S1),SMK Negeri,Pertanian
+Siti Sari,P,Teknik,473.61,Akuntansi (S1),MA Swasta,Sosial Politik
+Joko Nugroho,L,Akuntansi,690.72,Teknik Lingkungan (S1),MA Swasta,Hukum
+Tono Sari,L,IPS,587.46,Pend. Bahasa Inggris (S1),MA Swasta,Agama
+Fajar Wijaya,P,Teknik,539.3,Teknik Elektro (S1),SMK Swasta,Pendidikan
+Dewi Santoso,L,IPA,487.91,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMA Negeri,Sosial Politik
+Rudi Permata,L,IPS,490.19,Manajemen (S1),MA Negeri,Kesehatan
+Siti Wulandari,L,Keagamaan,657.03,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMK Negeri,Hukum
+Lia Santoso,L,IPS,532.06,Manajemen Pendidikan Islam (S1),SMK Negeri,Pertanian
+Mahmud Wijaya,L,IPS,565.24,Pend. Agama Islam (S1),SMA Negeri,Pertanian
+Fajar Fadilah,L,IPA,632.51,Farmasi (S1),MA Negeri,Pertanian
+Siti Nugroho,P,Bahasa,651.74,Ilmu Pemerintahan (S1),SMK Negeri,Hukum
+Kiki Sari,P,Akuntansi,509.59,Manajemen (S1),SMA Swasta,Sosial Politik
+Ahmad Permata,L,Multimedia,601.06,Agroteknologi (S1),SMA Negeri,Kesehatan
+Nina Utami,P,IPA,546.09,Agroteknologi (S1),SMA Negeri,Pendidikan
+Oki Wijaya,P,Bahasa,367.27,Teknik Informatika (S1),MA Negeri,Pertanian
+Ahmad Sari,P,Teknik,502.39,Teknik Industri (S1),SMA Negeri,Ekonomi
+Dewi Nugroho,P,Keagamaan,641.41,Manajemen (S1),SMA Negeri,Pertanian
+Nina Fadilah,L,Multimedia,541.81,Ilmu Pemerintahan (S1),MA Negeri,Pertanian
+Dewi Santoso,L,Multimedia,444.78,Sistem Informasi (S1),SMK Negeri,Pendidikan
+Kiki Nugroho,P,Multimedia,634.59,Pend. Matematika (S1),SMA Swasta,Sosial Politik
+Putri Saputra,P,IPS,509.68,Ilmu Keolahragaan (S1),SMK Negeri,Ekonomi
+Budi Permata,P,Keagamaan,485.12,Ilmu Pemerintahan (S1),SMA Swasta,Pertanian
+Siti Wulandari,L,IPS,620.63,Ilmu Keolahragaan (S1),SMK Swasta,Pertanian
+Kiki Saputra,P,Akuntansi,612.53,Teknik Industri (S1),SMA Negeri,Hukum
+Citra Nugroho,L,IPA,388.53,Teknik Mesin (S1),SMA Swasta,Teknologi
+Dewi Saputra,P,IPS,695.54,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMK Swasta,Teknologi
+Dewi Sari,P,Multimedia,475.42,Teknik Lingkungan (S1),MA Negeri,Hukum
+Qori Utami,L,Keagamaan,279.49,Teknik Mesin (S1),SMK Negeri,Ekonomi
+Kiki Permata,P,IPS,606.33,Manajemen (S1),SMA Negeri,Agama
+Ahmad Santoso,L,Multimedia,525.02,Ilmu Komunikasi (S1),SMA Swasta,Hukum
+Kiki Santoso,P,Multimedia,406.18,Teknik Lingkungan (S1),SMK Negeri,Sosial Politik
+Lia Sari,P,Keagamaan,492.68,Teknik Elektro (S1),MA Negeri,Kesehatan
+Qori Santoso,P,Teknik,729.24,Ilmu Komunikasi (S1),SMA Swasta,Ekonomi
+Rudi Sari,P,Keagamaan,438.43,Teknik Informatika (S1),MA Negeri,Teknologi
+Oki Utami,P,IPS,640.8,Ilmu Pemerintahan (S1),SMK Negeri,Pertanian
+Rudi Fadilah,L,Bahasa,481.99,Ilmu Keolahragaan (S1),SMA Negeri,Pertanian
+Intan Permata,L,Keagamaan,481.66,Agroteknologi (S1),SMA Negeri,Kesehatan
+Kiki Utami,P,IPA,517.07,Manajemen (S1),SMA Negeri,Ekonomi
+Rudi Utami,L,Teknik,441.48,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMK Swasta,Sosial Politik
+Nina Wulandari,L,Teknik,275.66,Pend. Luar Sekolah (S1),SMA Swasta,Pertanian
+Gita Santoso,P,Multimedia,611.38,Akuntansi (S1),SMA Swasta,Pendidikan
+Gita Santoso,L,IPA,627.57,Akuntansi (S1),MA Negeri,Ekonomi
+Joko Wulandari,P,Bahasa,516.26,Manajemen (S1),SMA Swasta,Kesehatan
+Nina Fadilah,L,IPS,637.21,Teknik Lingkungan (S1),SMA Swasta,Pendidikan
+Mahmud Saputra,P,Multimedia,469.44,Ilmu Komunikasi (S1),SMA Negeri,Kesehatan
+Lia Nugroho,L,IPA,550.57,Teknik Industri (S1),SMA Swasta,Agama
+Dewi Sari,L,IPA,639.01,Agroteknologi (S1),SMK Swasta,Pendidikan
+Gita Utami,L,Multimedia,650.12,Ilmu Komunikasi (S1),SMK Swasta,Hukum
+Kiki Wulandari,L,Teknik,589.6,Agribisnis (S1),MA Negeri,Sosial Politik
+Tono Nugroho,L,Keagamaan,627.26,Pend. Matematika (S1),SMK Negeri,Hukum
+Gita Santoso,P,Multimedia,637.5,Hubungan Internasional (S1),MA Swasta,Teknologi
+Ahmad Rizki,P,IPA,445.59,Manajemen (S1),MA Swasta,Hukum
+Siti Sari,L,Bahasa,468.1,Farmasi (S1),SMA Negeri,Agama
+Oki Santoso,L,Teknik,699.2,Teknik Kimia (S1),SMK Negeri,Ekonomi
+Citra Wijaya,L,Teknik,601.27,Agribisnis (S1),SMK Swasta,Pendidikan
+Dewi Santoso,L,IPA,574.68,Teknik Lingkungan (S1),SMA Negeri,Ekonomi
+Putri Permata,P,Keagamaan,444.76,Teknik Elektro (S1),SMA Swasta,Pendidikan
+Eka Wijaya,P,Teknik,417.67,Ilmu Komunikasi (S1),SMA Negeri,Hukum
+Fajar Santoso,L,Multimedia,515.43,Teknik Mesin (S1),MA Negeri,Hukum
+Ahmad Saputra,P,Keagamaan,386.56,Ilmu Gizi (S1),SMK Negeri,Pendidikan
+Fajar Wulandari,P,IPA,586.91,Agroteknologi (S1),SMA Negeri,Agama
+Eka Utami,P,Bahasa,710.72,Manajemen Pendidikan Islam (S1),SMK Swasta,Teknologi
+Nina Permata,P,Multimedia,695.14,Teknik Mesin (S1),SMA Negeri,Pertanian
+Budi Fadilah,P,IPA,524.79,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMA Negeri,Sosial Politik
+Rudi Wulandari,P,IPS,451.87,Manajemen (S1),MA Swasta,Kesehatan
+Rudi Saputra,L,Teknik,627.11,Teknik Lingkungan (S1),SMK Swasta,Hukum
+Lia Sari,L,Bahasa,600.69,Teknik Mesin (S1),SMA Negeri,Sosial Politik
+Kiki Wijaya,P,Teknik,705.81,Pend. Agama Islam (S1),MA Negeri,Pertanian
+Gita Santoso,L,Multimedia,584.77,Farmasi (S1),SMA Swasta,Hukum
+Gita Nugroho,L,Multimedia,374.74,Teknik Lingkungan (S1),MA Negeri,Teknologi
+Gita Fadilah,P,Teknik,466.5,Sistem Informasi (S1),MA Negeri,Teknologi
+Oki Saputra,L,Bahasa,397.49,Ilmu Komunikasi (S1),MA Swasta,Pertanian
+Budi Nugroho,L,IPA,480.89,Ilmu Gizi (S1),SMA Negeri,Pertanian
+Budi Nugroho,L,Multimedia,486.58,Teknik Elektro (S1),SMK Negeri,Kesehatan
+Lia Permata,P,IPS,499.22,Pend. Agama Islam (S1),SMK Negeri,Kesehatan
+Siti Saputra,L,IPA,556.62,Pend. Luar Sekolah (S1),SMA Negeri,Pertanian
+Citra Fadilah,P,IPA,520.1,Teknik Industri (S1),SMA Swasta,Teknologi
+Budi Saputra,P,Akuntansi,713.96,Manajemen (S1),SMK Swasta,Pendidikan
+Ahmad Nugroho,P,Bahasa,611.86,Ilmu Keolahragaan (S1),SMA Swasta,Pertanian
+Kiki Fadilah,L,IPS,588.86,Ilmu Hukum (S1),MA Swasta,Pendidikan
+Rudi Santoso,P,Keagamaan,767.85,Manajemen (S1),MA Negeri,Ekonomi
+Eka Santoso,P,Keagamaan,555.57,Teknik Lingkungan (S1),SMA Swasta,Ekonomi
+Oki Nugroho,P,Akuntansi,694.97,Ilmu Gizi (S1),SMK Negeri,Teknologi
+Intan Rizki,P,IPA,676.65,Sistem Informasi (S1),SMA Negeri,Pertanian
+Citra Wulandari,P,Bahasa,668.41,Akuntansi (S1),SMA Negeri,Pendidikan
+Intan Wijaya,L,IPA,461.02,Pend. Matematika (S1),MA Swasta,Pendidikan
+Intan Wijaya,L,Bahasa,702.0,Ilmu Hukum (S1),SMA Swasta,Sosial Politik
+Rudi Wulandari,P,Multimedia,517.81,Teknik Informatika (S1),SMK Swasta,Agama
+Joko Saputra,P,IPA,564.29,Agroteknologi (S1),SMK Swasta,Pertanian
+Joko Saputra,P,Bahasa,568.5,Teknik Mesin (S1),SMA Swasta,Ekonomi
+Joko Saputra,P,IPS,316.71,Farmasi (S1),MA Negeri,Pendidikan
+Eka Permata,P,IPA,391.24,Agroteknologi (S1),SMK Swasta,Pertanian
+Lia Santoso,L,Teknik,643.77,Pend. Matematika (S1),SMK Swasta,Ekonomi
+Kiki Wulandari,P,Keagamaan,779.64,Pend. Bahasa & Sastra Indonesia (S1),SMA Swasta,Pendidikan
+Dewi Wijaya,P,Multimedia,614.87,Teknik Industri (S1),SMK Swasta,Kesehatan
+Kiki Nugroho,P,Teknik,514.17,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",MA Swasta,Sosial Politik
+Mahmud Saputra,P,Keagamaan,517.82,Pendidikan Islam Anak Usia Dini (S1),MA Swasta,Hukum
+Oki Fadilah,L,Bahasa,645.9,Teknik Lingkungan (S1),MA Negeri,Pertanian
+Tono Utami,L,Teknik,489.34,Ilmu Pemerintahan (S1),SMA Swasta,Agama
+Putri Rizki,P,Teknik,523.66,Ilmu Komunikasi (S1),SMA Negeri,Teknologi
+Intan Nugroho,P,IPA,464.79,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMK Negeri,Teknologi
+Putri Wulandari,L,IPA,573.96,Agribisnis (S1),MA Negeri,Kesehatan
+Rudi Permata,L,Bahasa,597.35,Teknik Elektro (S1),SMK Negeri,Hukum
+Budi Wijaya,L,Akuntansi,500.2,Pend. Luar Sekolah (S1),SMA Swasta,Hukum
+Ahmad Utami,L,Teknik,706.92,Pend. Luar Sekolah (S1),MA Negeri,Agama
+Gita Fadilah,P,Multimedia,388.55,Ilmu Pemerintahan (S1),SMK Negeri,Ekonomi
+Intan Rizki,L,Multimedia,627.47,Agroteknologi (S1),SMK Swasta,Pendidikan
+Rudi Wulandari,L,Keagamaan,556.72,Manajemen (S1),MA Swasta,Pertanian
+Lia Utami,P,Akuntansi,567.88,Pend. Bahasa Inggris (S1),SMA Negeri,Kesehatan
+Rudi Wulandari,P,Keagamaan,627.67,Teknik Lingkungan (S1),SMK Negeri,Kesehatan
+Dewi Wijaya,L,Akuntansi,416.21,Pendidikan Islam Anak Usia Dini (S1),SMA Swasta,Agama
+Siti Rizki,L,Bahasa,428.58,Pend. Luar Sekolah (S1),SMA Negeri,Pertanian
+Lia Sari,P,Multimedia,434.15,Agribisnis (S1),SMK Swasta,Teknologi
+Rudi Santoso,P,Multimedia,466.23,Teknik Kimia (S1),SMK Swasta,Hukum
+Budi Sari,P,Akuntansi,622.68,Ilmu Hukum (S1),MA Negeri,Pertanian
+Siti Sari,L,Multimedia,403.37,Pendidikan Islam Anak Usia Dini (S1),SMA Negeri,Pendidikan
+Mahmud Fadilah,L,Bahasa,733.47,Teknik Lingkungan (S1),SMA Swasta,Pendidikan
+Oki Santoso,L,IPA,510.46,Pend. Matematika (S1),SMK Swasta,Ekonomi
+Intan Santoso,P,Multimedia,717.46,Farmasi (S1),MA Negeri,Kesehatan
+Kiki Permata,L,Bahasa,279.89,Farmasi (S1),SMK Negeri,Kesehatan
+Nina Sari,L,Akuntansi,512.67,Pendidikan Islam Anak Usia Dini (S1),SMA Negeri,Teknologi
+Kiki Santoso,L,Keagamaan,555.81,Teknik Informatika (S1),SMA Swasta,Pendidikan
+Lia Utami,P,IPS,666.51,Sistem Informasi (S1),SMK Swasta,Sosial Politik
+Fajar Rizki,L,IPA,508.54,Hubungan Internasional (S1),MA Swasta,Pendidikan
+Oki Utami,P,Teknik,513.29,Hubungan Internasional (S1),SMK Negeri,Hukum
+Citra Wulandari,P,Akuntansi,627.16,Teknik Mesin (S1),SMK Negeri,Pendidikan
+Intan Rizki,L,Keagamaan,668.26,Manajemen Pendidikan Islam (S1),SMK Negeri,Pendidikan
+Rudi Utami,L,Multimedia,653.14,Teknik Lingkungan (S1),MA Swasta,Teknologi
+Citra Sari,P,IPS,402.57,Manajemen (S1),SMA Negeri,Hukum
+Eka Sari,L,Keagamaan,565.57,Teknik Kimia (S1),SMK Swasta,Hukum
+Siti Rizki,L,IPS,539.3,Pend. Agama Islam (S1),SMK Negeri,Ekonomi
+Nina Sari,P,Bahasa,721.25,Ilmu Gizi (S1),SMK Swasta,Pertanian
+Dewi Utami,L,Akuntansi,592.5,Ilmu Gizi (S1),SMA Swasta,Agama
+Fajar Wijaya,L,Teknik,540.87,Teknik Kimia (S1),MA Negeri,Teknologi
+Dewi Fadilah,P,Keagamaan,576.58,Pendidikan Islam Anak Usia Dini (S1),SMA Negeri,Hukum
+Eka Wulandari,P,Keagamaan,483.02,Farmasi (S1),SMA Swasta,Sosial Politik
+Citra Santoso,L,Bahasa,328.68,Teknik Lingkungan (S1),SMK Negeri,Pendidikan
+Citra Wulandari,L,Keagamaan,498.09,Ilmu Komunikasi (S1),SMA Swasta,Teknologi
+Hasan Wulandari,L,Teknik,556.67,Farmasi (S1),SMA Swasta,Hukum
+Fajar Sari,L,IPS,639.42,Sistem Informasi (S1),SMA Negeri,Pertanian
+Tono Saputra,P,Teknik,602.39,Ilmu Pemerintahan (S1),SMK Negeri,Ekonomi
+Oki Permata,L,Multimedia,557.75,Ilmu Keolahragaan (S1),SMA Swasta,Kesehatan
+Oki Nugroho,P,Multimedia,640.12,Manajemen (S1),SMA Swasta,Hukum
+Hasan Permata,L,Multimedia,636.31,Akuntansi (S1),SMK Swasta,Pertanian
+Oki Wulandari,P,Akuntansi,581.93,Teknik Mesin (S1),SMK Swasta,Sosial Politik
+Oki Fadilah,L,Bahasa,411.07,Teknik Mesin (S1),MA Negeri,Teknologi
+Eka Sari,L,Akuntansi,466.53,Pend. Agama Islam (S1),MA Swasta,Sosial Politik
+Fajar Wijaya,L,Bahasa,616.48,Pend. Matematika (S1),SMK Negeri,Ekonomi
+Intan Utami,P,Bahasa,489.35,Ilmu Keolahragaan (S1),MA Negeri,Ekonomi
+Putri Nugroho,P,Bahasa,583.63,Teknik Lingkungan (S1),SMA Swasta,Pendidikan
+Hasan Utami,L,Teknik,556.59,Farmasi (S1),SMA Swasta,Teknologi
+Kiki Nugroho,P,Akuntansi,576.18,Teknik Kimia (S1),SMA Negeri,Hukum
+Putri Sari,P,Multimedia,385.2,Ilmu Gizi (S1),SMA Negeri,Kesehatan
+Budi Sari,P,Teknik,628.43,Ilmu Komunikasi (S1),MA Swasta,Sosial Politik
+Tono Rizki,P,Keagamaan,517.79,Farmasi (S1),SMK Negeri,Pendidikan
+Citra Permata,L,Keagamaan,510.35,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMA Negeri,Hukum
+Joko Wulandari,L,Keagamaan,444.91,Agroteknologi (S1),MA Swasta,Ekonomi
+Rudi Fadilah,P,Bahasa,487.3,Pend. Agama Islam (S1),SMA Negeri,Pertanian
+Rudi Nugroho,L,IPS,625.55,Manajemen Pendidikan Islam (S1),MA Swasta,Hukum
+Nina Saputra,L,Akuntansi,626.01,Ilmu Hukum (S1),MA Swasta,Pertanian
+Oki Fadilah,P,Bahasa,490.46,Agroteknologi (S1),SMK Swasta,Pertanian
+Nina Permata,P,Bahasa,682.98,Manajemen Pendidikan Islam (S1),SMA Negeri,Pertanian
+Hasan Wijaya,P,IPS,529.89,Pend. Matematika (S1),MA Negeri,Kesehatan
+Citra Nugroho,L,Multimedia,675.51,Manajemen Pendidikan Islam (S1),MA Negeri,Pendidikan
+Ahmad Wijaya,P,IPS,580.28,Agribisnis (S1),MA Swasta,Kesehatan
+Mahmud Wijaya,P,Bahasa,536.15,Farmasi (S1),SMK Swasta,Agama
+Intan Sari,L,Akuntansi,528.88,Teknik Industri (S1),MA Negeri,Agama
+Eka Rizki,L,Keagamaan,670.28,Pend. Bahasa Inggris (S1),SMA Negeri,Teknologi
+Oki Wulandari,L,IPS,549.49,Sistem Informasi (S1),MA Negeri,Pendidikan
+Intan Rizki,L,Teknik,783.43,Agroteknologi (S1),MA Negeri,Sosial Politik
+Tono Santoso,L,Multimedia,684.94,Teknik Elektro (S1),SMA Negeri,Agama
+Eka Santoso,L,IPS,570.69,Teknik Kimia (S1),SMK Negeri,Agama
+Putri Utami,P,Multimedia,557.93,Pend. Matematika (S1),MA Negeri,Sosial Politik
+Hasan Fadilah,P,Multimedia,498.56,Farmasi (S1),SMA Negeri,Agama
+Fajar Nugroho,L,Keagamaan,566.46,Ilmu Hukum (S1),MA Negeri,Pertanian
+Siti Rizki,L,IPA,759.39,Pend. Agama Islam (S1),SMK Swasta,Hukum
+Nina Nugroho,P,Keagamaan,506.71,Teknik Informatika (S1),SMA Swasta,Ekonomi
+Qori Wijaya,L,Bahasa,492.14,Pend. Agama Islam (S1),MA Negeri,Kesehatan
+Nina Saputra,P,IPA,575.35,Pendidikan Islam Anak Usia Dini (S1),SMK Negeri,Teknologi
+Rudi Saputra,P,IPS,492.19,Pend. Luar Sekolah (S1),SMA Swasta,Hukum
+Budi Fadilah,P,Teknik,468.16,Hubungan Internasional (S1),SMA Negeri,Hukum
+Joko Wijaya,L,Teknik,619.16,Ilmu Keolahragaan (S1),SMK Swasta,Sosial Politik
+Tono Saputra,L,IPS,482.62,Akuntansi (S1),MA Negeri,Pertanian
+Budi Wijaya,P,Keagamaan,465.65,Manajemen Pendidikan Islam (S1),MA Negeri,Sosial Politik
+Mahmud Sari,L,Multimedia,556.52,Pend. Matematika (S1),MA Negeri,Pendidikan
+Budi Fadilah,P,Akuntansi,496.61,Pend. Bahasa Inggris (S1),MA Negeri,Hukum
+Budi Utami,L,Teknik,640.94,Pendidikan Islam Anak Usia Dini (S1),MA Negeri,Sosial Politik
+Eka Saputra,P,Bahasa,482.35,Ilmu Keolahragaan (S1),MA Swasta,Teknologi
+Eka Permata,P,Multimedia,660.08,Ilmu Gizi (S1),SMA Negeri,Hukum
+Intan Saputra,P,Akuntansi,396.11,Agroteknologi (S1),MA Swasta,Sosial Politik
+Dewi Santoso,L,Akuntansi,463.99,Pendidikan Islam Anak Usia Dini (S1),MA Swasta,Hukum
+Nina Sari,L,Bahasa,411.76,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",MA Negeri,Teknologi
+Ahmad Sari,L,Bahasa,497.27,Ilmu Gizi (S1),SMA Swasta,Teknologi
+Rudi Fadilah,L,IPA,500.71,Ilmu Gizi (S1),SMA Negeri,Agama
+Lia Rizki,L,Bahasa,467.86,Manajemen Pendidikan Islam (S1),MA Negeri,Sosial Politik
+Rudi Sari,L,Bahasa,631.89,Pend. Luar Sekolah (S1),SMK Swasta,Teknologi
+Hasan Santoso,P,Akuntansi,521.01,Hubungan Internasional (S1),SMK Negeri,Ekonomi
+Siti Wijaya,L,Multimedia,643.85,Ilmu Komunikasi (S1),SMA Swasta,Kesehatan
+Ahmad Nugroho,P,IPS,602.48,Teknik Informatika (S1),SMK Swasta,Agama
+Nina Wijaya,P,IPS,526.54,Teknik Elektro (S1),SMA Negeri,Ekonomi
+Dewi Nugroho,L,Multimedia,676.78,Pend. Bahasa & Sastra Indonesia (S1),SMA Negeri,Hukum
+Siti Sari,L,IPA,618.27,Ilmu Gizi (S1),SMK Negeri,Pendidikan
+Gita Utami,P,Teknik,244.41,Teknik Informatika (S1),SMA Swasta,Ekonomi
+Hasan Sari,P,Keagamaan,571.73,Ilmu Gizi (S1),SMK Negeri,Pendidikan
+Citra Saputra,P,Keagamaan,570.83,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMK Negeri,Hukum
+Gita Wijaya,L,IPA,660.75,Pend. Luar Sekolah (S1),SMK Swasta,Hukum
+Putri Rizki,P,Keagamaan,574.34,Manajemen (S1),SMK Swasta,Sosial Politik
+Intan Utami,P,Teknik,596.97,Agroteknologi (S1),MA Swasta,Pertanian
+Citra Saputra,L,Teknik,624.85,Pend. Matematika (S1),SMK Negeri,Pertanian
+Siti Wulandari,L,IPS,473.79,Pend. Matematika (S1),SMA Negeri,Pendidikan
+Dewi Sari,P,Keagamaan,711.86,Pend. Bahasa Inggris (S1),SMA Swasta,Pertanian
+Ahmad Utami,P,Multimedia,443.69,Farmasi (S1),SMA Negeri,Kesehatan
+Siti Nugroho,P,Teknik,547.25,Pendidikan Islam Anak Usia Dini (S1),MA Negeri,Hukum
+Joko Sari,P,Keagamaan,348.8,Farmasi (S1),MA Negeri,Sosial Politik
+Intan Wulandari,P,IPS,503.82,Ilmu Pemerintahan (S1),MA Swasta,Teknologi
+Lia Saputra,L,Teknik,504.61,Pend. Matematika (S1),SMA Negeri,Pendidikan
+Ahmad Saputra,P,Teknik,648.62,Sistem Informasi (S1),MA Swasta,Pertanian
+Nina Sari,P,Multimedia,522.23,Ilmu Komunikasi (S1),SMK Swasta,Pertanian
+Fajar Santoso,L,Keagamaan,432.71,Pend. Matematika (S1),SMA Swasta,Teknologi
+Kiki Fadilah,P,Bahasa,400.77,Ilmu Gizi (S1),MA Swasta,Pertanian
+Fajar Fadilah,L,Akuntansi,445.24,Pend. Agama Islam (S1),MA Swasta,Teknologi
+Citra Permata,L,Akuntansi,537.33,Teknik Lingkungan (S1),MA Swasta,Pendidikan
+Citra Permata,L,Multimedia,492.32,Ilmu Hukum (S1),SMK Swasta,Pendidikan
+Nina Permata,P,Multimedia,792.88,Teknik Industri (S1),SMA Negeri,Pendidikan
+Siti Rizki,L,Teknik,412.51,Sistem Informasi (S1),MA Negeri,Hukum
+Rudi Permata,P,IPS,470.57,Pend. Bahasa Inggris (S1),SMA Negeri,Pertanian
+Kiki Saputra,L,IPS,533.43,Pend. Bahasa Inggris (S1),MA Swasta,Agama
+Tono Sari,L,IPS,612.36,Pend. Bahasa Inggris (S1),SMK Negeri,Kesehatan
+Intan Wijaya,P,Bahasa,536.16,Pendidikan Islam Anak Usia Dini (S1),SMA Swasta,Hukum
+Fajar Santoso,L,IPS,527.69,Agroteknologi (S1),SMA Swasta,Hukum
+Kiki Santoso,L,Keagamaan,665.88,Teknik Informatika (S1),MA Negeri,Kesehatan
+Gita Fadilah,L,Akuntansi,580.31,Teknik Mesin (S1),SMK Negeri,Pendidikan
+Citra Wijaya,P,Multimedia,621.09,Teknik Industri (S1),MA Swasta,Pertanian
+Fajar Sari,P,Teknik,758.56,Teknik Elektro (S1),SMK Swasta,Pendidikan
+Budi Sari,L,Akuntansi,674.3,Ilmu Komunikasi (S1),SMK Negeri,Ekonomi
+Gita Wulandari,L,Bahasa,819.85,Farmasi (S1),SMK Negeri,Hukum
+Kiki Wulandari,L,IPA,560.06,Akuntansi (S1),SMA Negeri,Pertanian
+Siti Utami,L,IPA,603.41,Pend. Bahasa & Sastra Indonesia (S1),SMA Swasta,Teknologi
+Hasan Permata,L,IPS,573.01,Ilmu Keolahragaan (S1),MA Negeri,Agama
+Lia Fadilah,P,Akuntansi,436.28,Ilmu Hukum (S1),MA Negeri,Sosial Politik
+Tono Sari,L,Multimedia,611.29,Akuntansi (S1),MA Swasta,Pendidikan
+Ahmad Saputra,P,Akuntansi,530.8,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",MA Swasta,Pertanian
+Nina Wijaya,L,Akuntansi,519.71,Teknik Mesin (S1),SMK Swasta,Ekonomi
+Intan Sari,P,Keagamaan,549.66,Ilmu Hukum (S1),SMK Swasta,Kesehatan
+Ahmad Santoso,P,Bahasa,506.89,Agroteknologi (S1),SMA Swasta,Teknologi
+Siti Fadilah,L,Teknik,696.24,Manajemen (S1),SMA Swasta,Kesehatan
+Budi Wijaya,P,IPA,774.14,Ilmu Pemerintahan (S1),MA Negeri,Agama
+Kiki Sari,P,Keagamaan,620.88,Pend. Matematika (S1),SMA Negeri,Kesehatan
+Putri Permata,L,Keagamaan,524.15,Pend. Matematika (S1),SMA Swasta,Pendidikan
+Budi Sari,L,Keagamaan,572.1,Agribisnis (S1),MA Negeri,Teknologi
+Kiki Santoso,L,Keagamaan,473.93,Ilmu Pemerintahan (S1),MA Swasta,Sosial Politik
+Mahmud Rizki,L,Bahasa,594.47,Ilmu Gizi (S1),SMA Negeri,Kesehatan
+Joko Sari,P,Teknik,472.34,Agroteknologi (S1),SMA Swasta,Hukum
+Nina Sari,P,IPS,546.11,Teknik Mesin (S1),SMK Swasta,Sosial Politik
+Budi Nugroho,P,IPA,569.72,Sistem Informasi (S1),MA Swasta,Hukum
+Dewi Santoso,L,Keagamaan,534.22,Teknik Informatika (S1),SMK Swasta,Kesehatan
+Joko Saputra,L,IPA,568.61,Teknik Kimia (S1),MA Swasta,Agama
+Ahmad Fadilah,L,Bahasa,574.84,Farmasi (S1),SMA Swasta,Agama
+Qori Saputra,P,Bahasa,620.64,Farmasi (S1),SMK Swasta,Ekonomi
+Siti Nugroho,P,Keagamaan,533.82,Hubungan Internasional (S1),MA Swasta,Pendidikan
+Intan Utami,L,Multimedia,495.58,Manajemen (S1),SMA Negeri,Kesehatan
+Budi Wijaya,P,Multimedia,500.94,Akuntansi (S1),MA Swasta,Sosial Politik
+Tono Nugroho,L,Keagamaan,473.07,Manajemen Pendidikan Islam (S1),SMK Negeri,Hukum
+Tono Santoso,L,Bahasa,678.1,Pend. Bahasa Inggris (S1),SMK Swasta,Pendidikan
+Eka Santoso,L,Bahasa,591.24,Agroteknologi (S1),SMA Swasta,Teknologi
+Qori Permata,L,Teknik,589.27,Farmasi (S1),MA Swasta,Pertanian
+Intan Fadilah,P,Akuntansi,763.8,Pend. Agama Islam (S1),MA Swasta,Sosial Politik
+Mahmud Rizki,L,IPS,455.09,Farmasi (S1),SMA Swasta,Teknologi
+Dewi Rizki,P,IPA,409.4,Teknik Kimia (S1),SMA Negeri,Agama
+Nina Santoso,P,Bahasa,441.29,Ilmu Keolahragaan (S1),SMK Negeri,Pendidikan
+Eka Wulandari,P,IPA,543.22,Teknik Mesin (S1),SMA Swasta,Kesehatan
+Siti Wulandari,L,Bahasa,493.21,Ilmu Gizi (S1),SMK Negeri,Ekonomi
+Putri Sari,P,Akuntansi,658.68,Teknik Mesin (S1),MA Swasta,Sosial Politik
+Fajar Rizki,L,IPA,433.01,Ilmu Pemerintahan (S1),SMA Swasta,Pendidikan
+Citra Wulandari,L,Bahasa,596.46,Sistem Informasi (S1),MA Swasta,Agama
+Budi Sari,L,Keagamaan,581.41,Pendidikan Islam Anak Usia Dini (S1),SMK Negeri,Ekonomi
+Fajar Permata,L,IPS,635.53,Ilmu Pemerintahan (S1),SMA Swasta,Kesehatan
+Budi Sari,L,Bahasa,543.72,Pend. Luar Sekolah (S1),SMK Swasta,Kesehatan
+Intan Utami,P,IPS,545.91,Farmasi (S1),MA Swasta,Agama
+Eka Nugroho,P,Keagamaan,655.85,Pendidikan Islam Anak Usia Dini (S1),SMA Negeri,Ekonomi
+Mahmud Wijaya,L,Bahasa,575.9,Pendidikan Islam Anak Usia Dini (S1),SMA Negeri,Kesehatan
+Oki Wijaya,P,Teknik,520.48,Sistem Informasi (S1),SMK Negeri,Sosial Politik
+Tono Sari,P,Keagamaan,461.74,Ilmu Hukum (S1),MA Swasta,Sosial Politik
+Putri Saputra,P,Akuntansi,545.71,Pendidikan Islam Anak Usia Dini (S1),MA Swasta,Pertanian
+Hasan Permata,L,Bahasa,462.67,Farmasi (S1),SMA Swasta,Kesehatan
+Oki Permata,P,Keagamaan,634.67,Teknik Kimia (S1),SMA Negeri,Agama
+Putri Saputra,L,Multimedia,697.58,Ilmu Keolahragaan (S1),SMA Negeri,Pendidikan
+Dewi Wijaya,L,IPS,555.5,Teknik Informatika (S1),MA Swasta,Ekonomi
+Qori Saputra,P,Multimedia,488.43,Agroteknologi (S1),SMK Negeri,Hukum
+Lia Permata,L,Teknik,508.88,Ilmu Hukum (S1),MA Negeri,Teknologi
+Eka Permata,L,Keagamaan,448.76,Pend. Luar Sekolah (S1),SMA Swasta,Pertanian
+Budi Permata,L,IPA,551.65,Hubungan Internasional (S1),SMA Negeri,Sosial Politik
+Intan Nugroho,L,Multimedia,709.81,Teknik Kimia (S1),SMK Negeri,Pendidikan
+Joko Fadilah,P,IPS,469.83,Teknik Elektro (S1),SMK Swasta,Pertanian
+Budi Santoso,L,Teknik,623.14,Teknik Informatika (S1),SMA Swasta,Sosial Politik
+Joko Wulandari,L,IPA,429.78,Sistem Informasi (S1),SMA Swasta,Teknologi
+Kiki Santoso,L,IPS,596.71,Ilmu Pemerintahan (S1),SMA Negeri,Pendidikan
+Oki Wulandari,L,Keagamaan,655.53,Teknik Lingkungan (S1),SMA Swasta,Pertanian
+Oki Nugroho,P,Multimedia,520.33,Manajemen Pendidikan Islam (S1),SMK Swasta,Ekonomi
+Fajar Sari,P,Teknik,540.25,Pend. Agama Islam (S1),SMK Swasta,Hukum
+Lia Santoso,L,Multimedia,533.92,Pend. Bahasa & Sastra Indonesia (S1),MA Swasta,Hukum
+Hasan Fadilah,L,Bahasa,446.66,Akuntansi (S1),MA Negeri,Kesehatan
+Nina Sari,L,IPA,661.39,Ilmu Komunikasi (S1),MA Swasta,Sosial Politik
+Oki Saputra,L,Bahasa,664.69,Teknik Lingkungan (S1),MA Swasta,Kesehatan
+Mahmud Nugroho,P,IPS,428.59,Teknik Elektro (S1),SMA Negeri,Sosial Politik
+Tono Wijaya,P,IPS,752.44,Pend. Matematika (S1),SMK Negeri,Pertanian
+Tono Santoso,L,Akuntansi,548.61,Teknik Mesin (S1),MA Negeri,Kesehatan
+Mahmud Permata,P,Multimedia,502.26,Pendidikan Islam Anak Usia Dini (S1),SMA Swasta,Kesehatan
+Qori Fadilah,P,Multimedia,721.52,Teknik Lingkungan (S1),MA Negeri,Kesehatan
+Budi Wijaya,P,Teknik,477.3,Farmasi (S1),MA Negeri,Agama
+Siti Wulandari,L,Teknik,633.32,Teknik Mesin (S1),SMK Negeri,Pertanian
+Putri Sari,L,Teknik,623.44,Pend. Agama Islam (S1),SMK Negeri,Pendidikan
+Dewi Rizki,L,Teknik,606.95,Manajemen Pendidikan Islam (S1),SMA Swasta,Agama
+Kiki Rizki,P,Teknik,460.65,Manajemen Pendidikan Islam (S1),SMK Swasta,Teknologi
+Oki Permata,P,Akuntansi,726.35,Pend. Luar Sekolah (S1),SMK Swasta,Teknologi
+Eka Rizki,L,Akuntansi,581.25,Agribisnis (S1),SMA Negeri,Agama
+Putri Wijaya,P,Akuntansi,668.63,Pend. Agama Islam (S1),SMA Swasta,Pertanian
+Budi Rizki,L,Bahasa,579.52,Pend. Bahasa Inggris (S1),SMA Swasta,Hukum
+Intan Saputra,P,IPS,627.5,Pend. Matematika (S1),SMA Negeri,Hukum
+Nina Rizki,L,Bahasa,498.74,Teknik Mesin (S1),SMA Swasta,Sosial Politik
+Intan Utami,L,Akuntansi,477.21,Ilmu Hukum (S1),MA Swasta,Agama
+Nina Utami,P,Bahasa,674.4,Akuntansi (S1),SMA Negeri,Agama
+Joko Wijaya,L,IPA,558.68,Teknik Mesin (S1),SMA Swasta,Pendidikan
+Gita Wulandari,P,Bahasa,609.13,Ilmu Hukum (S1),SMA Negeri,Ekonomi
+Budi Rizki,P,Akuntansi,482.06,Agroteknologi (S1),MA Negeri,Pertanian
+Fajar Sari,L,Keagamaan,764.34,Teknik Lingkungan (S1),SMK Swasta,Pendidikan
+Gita Wulandari,L,IPS,290.16,Ilmu Pemerintahan (S1),MA Swasta,Ekonomi
+Citra Wulandari,L,Akuntansi,557.03,Pendidikan Islam Anak Usia Dini (S1),MA Negeri,Teknologi
+Tono Fadilah,L,Teknik,337.75,Ilmu Pemerintahan (S1),MA Swasta,Pertanian
+Lia Rizki,L,IPA,567.61,Pend. Luar Sekolah (S1),MA Swasta,Kesehatan
+Siti Permata,P,Teknik,554.76,Pend. Bahasa & Sastra Indonesia (S1),SMA Swasta,Pertanian
+Fajar Permata,L,IPS,552.21,Akuntansi (S1),MA Negeri,Teknologi
+Citra Permata,P,Akuntansi,673.19,Manajemen (S1),SMK Swasta,Ekonomi
+Fajar Saputra,L,IPS,469.55,Pend. Bahasa & Sastra Indonesia (S1),MA Negeri,Kesehatan
+Ahmad Santoso,P,IPA,620.57,Manajemen (S1),MA Swasta,Pertanian
+Putri Sari,L,Akuntansi,450.23,Teknik Kimia (S1),SMK Negeri,Pertanian
+Joko Santoso,P,Akuntansi,664.15,Akuntansi (S1),SMA Swasta,Teknologi
+Gita Wulandari,P,Multimedia,528.57,Pend. Agama Islam (S1),SMA Swasta,Sosial Politik
+Citra Santoso,P,Akuntansi,480.38,Pendidikan Islam Anak Usia Dini (S1),SMK Negeri,Agama
+Joko Sari,P,Keagamaan,640.15,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMA Negeri,Sosial Politik
+Gita Rizki,L,Bahasa,439.29,Teknik Kimia (S1),MA Swasta,Agama
+Lia Rizki,P,IPA,685.15,Farmasi (S1),SMK Swasta,Pendidikan
+Qori Rizki,P,IPA,536.47,Ilmu Hukum (S1),SMA Swasta,Pertanian
+Qori Nugroho,P,IPS,548.45,Sistem Informasi (S1),SMK Swasta,Agama
+Gita Utami,L,Keagamaan,683.84,Teknik Industri (S1),SMK Negeri,Pertanian
+Dewi Wijaya,L,Bahasa,495.22,Teknik Mesin (S1),SMA Swasta,Pendidikan
+Rudi Fadilah,L,Keagamaan,501.85,Ilmu Gizi (S1),MA Swasta,Hukum
+Mahmud Saputra,L,Bahasa,530.47,Ilmu Komunikasi (S1),SMK Swasta,Pertanian
+Putri Sari,P,Multimedia,560.3,Ilmu Komunikasi (S1),SMA Swasta,Pendidikan
+Ahmad Saputra,P,Multimedia,451.03,Farmasi (S1),MA Swasta,Agama
+Kiki Fadilah,P,Multimedia,538.59,Pend. Matematika (S1),SMA Negeri,Pertanian
+Lia Saputra,P,Multimedia,610.6,Teknik Lingkungan (S1),SMA Swasta,Teknologi
+Nina Wulandari,P,Teknik,519.29,Pendidikan Islam Anak Usia Dini (S1),SMK Negeri,Kesehatan
+Dewi Rizki,P,Keagamaan,482.1,Pend. Agama Islam (S1),SMK Swasta,Kesehatan
+Hasan Utami,L,Teknik,618.96,Ilmu Hukum (S1),SMK Swasta,Pendidikan
+Ahmad Santoso,P,IPS,537.97,Akuntansi (S1),SMK Negeri,Agama
+Nina Sari,P,Bahasa,592.83,Agroteknologi (S1),SMA Swasta,Kesehatan
+Siti Permata,P,IPS,557.04,Teknik Mesin (S1),SMA Swasta,Pendidikan
+Rudi Fadilah,L,Multimedia,538.05,Manajemen (S1),SMA Swasta,Teknologi
+Ahmad Wulandari,L,IPA,544.51,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",MA Swasta,Hukum
+Qori Rizki,L,Bahasa,567.38,Pend. Agama Islam (S1),SMA Swasta,Hukum
+Dewi Nugroho,L,IPA,647.69,Teknik Informatika (S1),MA Negeri,Agama
+Fajar Utami,L,Keagamaan,469.88,Teknik Informatika (S1),SMA Swasta,Sosial Politik
+Siti Wulandari,P,Keagamaan,452.09,Pend. Bahasa & Sastra Indonesia (S1),MA Swasta,Kesehatan
+Qori Permata,P,Multimedia,559.95,Akuntansi (S1),SMA Swasta,Teknologi
+Hasan Wijaya,L,IPA,528.75,Teknik Informatika (S1),SMA Negeri,Pendidikan
+Rudi Permata,P,IPS,766.72,Agribisnis (S1),MA Negeri,Teknologi
+Qori Saputra,L,Multimedia,670.25,Pend. Matematika (S1),SMK Swasta,Kesehatan
+Hasan Nugroho,L,Teknik,647.79,Pend. Luar Sekolah (S1),SMA Negeri,Pertanian
+Qori Saputra,P,Keagamaan,423.55,Ilmu Keolahragaan (S1),SMK Negeri,Pendidikan
+Eka Utami,P,Teknik,583.97,Teknik Elektro (S1),SMA Negeri,Ekonomi
+Ahmad Nugroho,L,IPA,792.21,Agribisnis (S1),SMK Negeri,Hukum
+Budi Rizki,P,Multimedia,490.25,Hubungan Internasional (S1),SMA Negeri,Ekonomi
+Intan Saputra,L,Keagamaan,399.08,Teknik Mesin (S1),SMK Swasta,Teknologi
+Ahmad Santoso,P,Multimedia,532.21,Pendidikan Islam Anak Usia Dini (S1),SMA Swasta,Pendidikan
+Eka Saputra,L,Multimedia,408.23,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMK Swasta,Teknologi
+Rudi Fadilah,P,Teknik,373.13,Teknik Elektro (S1),MA Negeri,Kesehatan
+Ahmad Nugroho,L,Teknik,566.15,Ilmu Keolahragaan (S1),SMK Negeri,Agama
+Budi Nugroho,P,Teknik,428.21,Ilmu Keolahragaan (S1),SMK Swasta,Ekonomi
+Tono Wijaya,L,IPA,770.99,Pendidikan Islam Anak Usia Dini (S1),SMA Negeri,Kesehatan
+Siti Sari,P,Teknik,384.51,Teknik Mesin (S1),SMA Negeri,Ekonomi
+Citra Santoso,L,IPA,587.02,Teknik Lingkungan (S1),SMK Negeri,Sosial Politik
+Gita Wulandari,P,IPS,535.31,Ilmu Keolahragaan (S1),SMK Negeri,Sosial Politik
+Dewi Permata,L,Teknik,451.51,Agroteknologi (S1),MA Negeri,Ekonomi
+Ahmad Utami,P,Multimedia,399.81,Teknik Kimia (S1),SMK Negeri,Teknologi
+Dewi Wulandari,P,Teknik,719.7,Pend. Matematika (S1),MA Swasta,Agama
+Oki Saputra,P,Bahasa,733.2,Ilmu Komunikasi (S1),MA Swasta,Pendidikan
+Putri Santoso,P,Keagamaan,500.03,Pendidikan Islam Anak Usia Dini (S1),SMA Negeri,Pendidikan
+Eka Wulandari,P,Multimedia,308.58,Pend. Agama Islam (S1),SMK Negeri,Pertanian
+Eka Utami,L,IPS,626.48,Pend. Bahasa & Sastra Indonesia (S1),MA Swasta,Kesehatan
+Mahmud Rizki,L,IPS,452.31,Hubungan Internasional (S1),SMA Negeri,Agama
+Dewi Santoso,P,IPS,568.61,Akuntansi (S1),SMA Swasta,Hukum
+Budi Nugroho,L,Multimedia,553.2,Teknik Lingkungan (S1),SMA Negeri,Ekonomi
+Fajar Santoso,L,IPS,454.61,Akuntansi (S1),SMA Swasta,Kesehatan
+Eka Wulandari,P,Keagamaan,477.01,Pendidikan Islam Anak Usia Dini (S1),SMA Negeri,Agama
+Kiki Sari,P,IPA,375.49,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMK Negeri,Pertanian
+Citra Rizki,L,Multimedia,671.68,Agroteknologi (S1),SMK Negeri,Pendidikan
+Lia Permata,L,Keagamaan,454.18,Pendidikan Islam Anak Usia Dini (S1),SMK Swasta,Kesehatan
+Lia Permata,L,Multimedia,476.19,Teknik Elektro (S1),SMK Negeri,Ekonomi
+Fajar Rizki,P,Teknik,365.0,Akuntansi (S1),SMA Negeri,Sosial Politik
+Dewi Utami,P,Multimedia,558.08,Teknik Lingkungan (S1),MA Swasta,Ekonomi
+Eka Wulandari,L,IPS,571.98,Ilmu Gizi (S1),SMA Swasta,Kesehatan
+Dewi Utami,P,IPA,701.34,Manajemen Pendidikan Islam (S1),MA Negeri,Pertanian
+Ahmad Permata,L,Teknik,482.5,Ilmu Komunikasi (S1),SMA Negeri,Kesehatan
+Eka Nugroho,L,Multimedia,692.72,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMA Negeri,Ekonomi
+Lia Saputra,L,Keagamaan,453.46,Pend. Matematika (S1),SMK Swasta,Pertanian
+Fajar Rizki,P,Keagamaan,469.23,Teknik Industri (S1),SMA Swasta,Pendidikan
+Gita Wulandari,P,Keagamaan,617.03,Teknik Lingkungan (S1),SMA Negeri,Pendidikan
+Intan Utami,P,Bahasa,584.54,Teknik Lingkungan (S1),SMA Negeri,Ekonomi
+Lia Utami,L,Akuntansi,520.88,Pend. Bahasa & Sastra Indonesia (S1),SMK Swasta,Agama
+Qori Santoso,P,IPS,544.59,Akuntansi (S1),SMK Negeri,Pertanian
+Siti Saputra,P,Bahasa,427.09,Teknik Industri (S1),SMA Swasta,Agama
+Hasan Nugroho,P,Teknik,551.17,Akuntansi (S1),SMA Swasta,Ekonomi
+Eka Fadilah,P,IPS,624.6,Ilmu Hukum (S1),SMK Negeri,Kesehatan
+Qori Utami,P,Teknik,541.52,Pendidikan Islam Anak Usia Dini (S1),MA Negeri,Ekonomi
+Citra Wijaya,P,Akuntansi,550.74,Ilmu Hukum (S1),MA Swasta,Teknologi
+Lia Permata,P,Multimedia,561.46,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMA Negeri,Agama
+Nina Fadilah,L,IPS,572.05,Teknik Lingkungan (S1),SMA Negeri,Pendidikan
+Fajar Wijaya,L,Keagamaan,562.95,Pend. Luar Sekolah (S1),SMK Swasta,Kesehatan
+Mahmud Rizki,P,Akuntansi,596.54,Ilmu Gizi (S1),SMA Negeri,Agama
+Lia Fadilah,L,Teknik,705.17,Ilmu Gizi (S1),SMK Negeri,Teknologi
+Ahmad Permata,L,Multimedia,423.75,Teknik Industri (S1),MA Negeri,Pertanian
+Siti Nugroho,L,IPA,689.08,Pend. Bahasa & Sastra Indonesia (S1),SMA Negeri,Agama
+Oki Wulandari,P,IPA,472.39,Pend. Luar Sekolah (S1),SMK Negeri,Pertanian
+Gita Nugroho,L,Teknik,666.7,Pend. Bahasa Inggris (S1),MA Negeri,Teknologi
+Oki Saputra,P,Multimedia,519.04,Sistem Informasi (S1),SMK Swasta,Ekonomi
+Siti Nugroho,L,Keagamaan,781.16,Teknik Elektro (S1),MA Negeri,Ekonomi
+Eka Wulandari,L,Bahasa,341.11,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",MA Swasta,Pertanian
+Siti Wijaya,L,Keagamaan,626.44,Pend. Agama Islam (S1),MA Swasta,Teknologi
+Dewi Santoso,L,Teknik,514.36,Teknik Lingkungan (S1),SMK Swasta,Pendidikan
+Ahmad Utami,P,Keagamaan,579.34,Teknik Industri (S1),SMA Negeri,Agama
+Putri Saputra,L,Bahasa,539.93,Ilmu Hukum (S1),SMA Negeri,Teknologi
+Rudi Santoso,L,Bahasa,679.49,Agribisnis (S1),SMA Swasta,Pertanian
+Nina Wulandari,L,Multimedia,753.04,Ilmu Pemerintahan (S1),SMA Negeri,Agama
+Lia Wulandari,L,Multimedia,551.66,Manajemen (S1),SMK Negeri,Hukum
+Ahmad Fadilah,P,Keagamaan,562.16,Pend. Bahasa & Sastra Indonesia (S1),SMK Negeri,Hukum
+Eka Rizki,L,Teknik,549.85,Ilmu Gizi (S1),SMA Negeri,Kesehatan
+Fajar Santoso,L,Teknik,562.35,Teknik Kimia (S1),SMA Swasta,Agama
+Oki Sari,L,Keagamaan,578.66,Teknik Informatika (S1),SMA Negeri,Sosial Politik
+Hasan Wijaya,L,Bahasa,594.01,Akuntansi (S1),SMK Swasta,Sosial Politik
+Lia Sari,P,Bahasa,554.05,Pendidikan Islam Anak Usia Dini (S1),SMA Negeri,Teknologi
+Eka Saputra,L,Multimedia,429.42,Pend. Bahasa & Sastra Indonesia (S1),SMK Swasta,Kesehatan
+Siti Saputra,L,Teknik,384.25,Ilmu Gizi (S1),SMA Swasta,Agama
+Joko Sari,L,Akuntansi,425.51,Teknik Industri (S1),SMK Swasta,Sosial Politik
+Budi Santoso,L,Akuntansi,540.16,Teknik Kimia (S1),SMA Swasta,Pertanian
+Gita Saputra,P,Bahasa,499.53,Ilmu Keolahragaan (S1),SMK Swasta,Sosial Politik
+Gita Saputra,P,Multimedia,385.01,Teknik Industri (S1),MA Swasta,Teknologi
+Nina Utami,L,Akuntansi,413.17,Pend. Matematika (S1),SMA Swasta,Hukum
+Tono Wijaya,L,IPS,359.25,Ilmu Komunikasi (S1),MA Negeri,Sosial Politik
+Kiki Santoso,P,Multimedia,597.55,Ilmu Pemerintahan (S1),SMK Negeri,Teknologi
+Nina Permata,P,Teknik,507.79,Ilmu Komunikasi (S1),MA Swasta,Sosial Politik
+Mahmud Utami,P,Bahasa,511.36,Ilmu Komunikasi (S1),MA Negeri,Pendidikan
+Kiki Fadilah,L,Bahasa,625.92,Pend. Matematika (S1),SMA Swasta,Pertanian
+Citra Wulandari,L,Keagamaan,298.89,Teknik Kimia (S1),SMA Negeri,Sosial Politik
+Intan Wulandari,L,Multimedia,474.66,Ilmu Pemerintahan (S1),SMA Negeri,Agama
+Oki Fadilah,P,IPA,654.66,Ilmu Pemerintahan (S1),SMA Swasta,Hukum
+Dewi Permata,L,IPA,255.8,Ilmu Hukum (S1),SMA Negeri,Teknologi
+Joko Wijaya,P,Multimedia,302.05,Sistem Informasi (S1),MA Negeri,Ekonomi
+Tono Fadilah,L,Keagamaan,447.88,Hubungan Internasional (S1),SMA Swasta,Pertanian
+Fajar Santoso,L,Akuntansi,643.54,Pend. Matematika (S1),SMK Negeri,Kesehatan
+Intan Fadilah,P,Bahasa,384.17,Pend. Bahasa & Sastra Indonesia (S1),SMA Swasta,Kesehatan
+Budi Fadilah,L,Bahasa,560.19,Ilmu Komunikasi (S1),SMA Negeri,Teknologi
+Qori Nugroho,P,Keagamaan,527.76,Teknik Industri (S1),MA Swasta,Pertanian
+Tono Rizki,L,Akuntansi,391.69,Pend. Agama Islam (S1),MA Negeri,Kesehatan
+Rudi Rizki,L,Teknik,556.3,Farmasi (S1),MA Swasta,Agama
+Dewi Wijaya,P,IPS,524.72,Sistem Informasi (S1),SMK Swasta,Teknologi
+Oki Saputra,P,Keagamaan,607.92,Ilmu Hukum (S1),SMA Swasta,Pendidikan
+Dewi Nugroho,P,IPA,567.09,Ilmu Komunikasi (S1),MA Negeri,Hukum
+Oki Nugroho,L,IPS,531.21,Teknik Mesin (S1),SMA Swasta,Teknologi
+Budi Permata,P,Teknik,536.65,Agribisnis (S1),MA Negeri,Pendidikan
+Ahmad Fadilah,P,Teknik,454.67,Ilmu Keolahragaan (S1),MA Swasta,Pendidikan
+Putri Saputra,P,IPS,483.54,Pend. Bahasa & Sastra Indonesia (S1),SMA Negeri,Teknologi
+Hasan Nugroho,P,IPS,448.57,Pend. Bahasa Inggris (S1),SMK Negeri,Teknologi
+Oki Santoso,L,Teknik,549.63,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMK Swasta,Hukum
+Rudi Sari,L,Teknik,447.77,Manajemen Pendidikan Islam (S1),SMK Swasta,Sosial Politik
+Fajar Sari,L,IPA,536.21,Ilmu Keolahragaan (S1),SMA Swasta,Pendidikan
+Oki Wijaya,P,Akuntansi,514.5,Agribisnis (S1),SMK Negeri,Pertanian
+Mahmud Sari,L,Keagamaan,620.65,Manajemen Pendidikan Islam (S1),SMA Swasta,Kesehatan
+Mahmud Wijaya,L,Akuntansi,484.82,Hubungan Internasional (S1),SMK Swasta,Ekonomi
+Mahmud Fadilah,L,Multimedia,511.35,Pend. Matematika (S1),SMK Negeri,Pertanian
+Qori Permata,P,IPA,511.31,Pend. Luar Sekolah (S1),SMK Swasta,Kesehatan
+Fajar Nugroho,L,Keagamaan,458.38,Pend. Agama Islam (S1),SMK Negeri,Hukum
+Kiki Sari,P,IPS,535.36,Agroteknologi (S1),SMK Negeri,Pertanian
+Hasan Wulandari,P,Bahasa,355.24,Teknik Industri (S1),SMA Negeri,Ekonomi
+Qori Saputra,P,Teknik,706.73,Manajemen (S1),MA Swasta,Pertanian
+Dewi Fadilah,P,Akuntansi,448.73,Pend. Agama Islam (S1),SMK Swasta,Kesehatan
+Kiki Wulandari,L,Akuntansi,554.98,Pend. Matematika (S1),SMA Negeri,Teknologi
+Lia Fadilah,P,Akuntansi,566.1,Pend. Luar Sekolah (S1),SMA Swasta,Kesehatan
+Fajar Santoso,P,Keagamaan,478.33,Pend. Luar Sekolah (S1),SMK Swasta,Sosial Politik
+Eka Saputra,L,Teknik,641.26,Pend. Luar Sekolah (S1),SMK Swasta,Ekonomi
+Gita Permata,P,Akuntansi,506.08,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMA Negeri,Pertanian
+Joko Nugroho,L,Multimedia,678.49,Teknik Industri (S1),SMA Swasta,Sosial Politik
+Lia Utami,P,Multimedia,304.35,Teknik Kimia (S1),SMA Swasta,Hukum
+Qori Permata,L,Bahasa,621.89,Teknik Mesin (S1),MA Swasta,Hukum
+Qori Wijaya,L,Akuntansi,387.05,Pend. Luar Sekolah (S1),MA Swasta,Pertanian
+Budi Wijaya,L,Keagamaan,471.57,Ilmu Keolahragaan (S1),SMA Swasta,Sosial Politik
+Rudi Rizki,P,Multimedia,414.26,Teknik Informatika (S1),SMA Negeri,Sosial Politik
+Gita Wulandari,L,Multimedia,654.24,Sistem Informasi (S1),SMK Negeri,Teknologi
+Gita Fadilah,L,IPS,729.06,Teknik Mesin (S1),MA Swasta,Teknologi
+Hasan Rizki,P,IPA,598.12,Manajemen (S1),SMA Negeri,Teknologi
+Tono Nugroho,P,IPS,617.11,Hubungan Internasional (S1),MA Swasta,Sosial Politik
+Ahmad Rizki,P,IPA,517.53,Farmasi (S1),MA Swasta,Sosial Politik
+Dewi Wijaya,L,Teknik,578.19,Teknik Mesin (S1),SMK Negeri,Teknologi
+Fajar Wulandari,P,Multimedia,420.92,Ilmu Pemerintahan (S1),SMA Negeri,Kesehatan
+Oki Saputra,P,IPA,546.66,Akuntansi (S1),MA Negeri,Pertanian
+Rudi Fadilah,L,IPA,587.01,Ilmu Pemerintahan (S1),SMA Swasta,Agama
+Budi Rizki,L,IPS,545.12,Agroteknologi (S1),SMA Swasta,Pendidikan
+Joko Santoso,P,Bahasa,399.92,Teknik Informatika (S1),SMK Swasta,Sosial Politik
+Kiki Fadilah,L,IPS,631.3,Ilmu Pemerintahan (S1),SMA Swasta,Teknologi
+Nina Permata,L,Teknik,521.68,Teknik Kimia (S1),MA Swasta,Teknologi
+Fajar Permata,L,Bahasa,497.26,Akuntansi (S1),MA Swasta,Pendidikan
+Oki Santoso,L,Akuntansi,402.26,Teknik Mesin (S1),SMA Negeri,Teknologi
+Siti Nugroho,P,Multimedia,362.73,Teknik Lingkungan (S1),MA Swasta,Sosial Politik
+Citra Sari,P,IPA,575.69,Farmasi (S1),SMK Negeri,Kesehatan
+Tono Rizki,L,IPA,497.75,Farmasi (S1),SMK Swasta,Hukum
+Eka Sari,L,Multimedia,561.08,Ilmu Keolahragaan (S1),MA Swasta,Pendidikan
+Budi Permata,P,Keagamaan,732.62,Teknik Mesin (S1),SMK Negeri,Kesehatan
+Lia Permata,P,IPS,423.12,Teknik Industri (S1),SMK Swasta,Agama
+Tono Nugroho,L,Bahasa,526.69,Ilmu Hukum (S1),SMK Negeri,Teknologi
+Budi Santoso,L,Bahasa,416.47,Teknik Industri (S1),MA Negeri,Sosial Politik
+Fajar Sari,L,IPA,660.95,Sistem Informasi (S1),MA Swasta,Agama
+Fajar Utami,L,Akuntansi,687.23,Pend. Matematika (S1),MA Swasta,Pendidikan
+Tono Wijaya,L,Keagamaan,566.66,Teknik Lingkungan (S1),MA Negeri,Ekonomi
+Eka Utami,P,Akuntansi,667.18,Agribisnis (S1),MA Negeri,Agama
+Gita Permata,L,Teknik,489.49,Ilmu Komunikasi (S1),SMA Swasta,Sosial Politik
+Intan Permata,L,IPA,574.82,Teknik Elektro (S1),SMA Negeri,Sosial Politik
+Intan Saputra,P,Bahasa,391.04,Pend. Agama Islam (S1),MA Swasta,Sosial Politik
+Tono Rizki,L,Bahasa,608.51,Akuntansi (S1),MA Swasta,Pendidikan
+Putri Santoso,P,Bahasa,529.24,Teknik Mesin (S1),SMK Swasta,Pendidikan
+Lia Wijaya,P,Keagamaan,524.23,Teknik Informatika (S1),MA Negeri,Agama
+Citra Wulandari,L,IPA,356.36,Ilmu Hukum (S1),MA Negeri,Pertanian
+Dewi Utami,L,Teknik,511.31,Agribisnis (S1),SMA Negeri,Kesehatan
+Siti Nugroho,L,Multimedia,478.6,Agroteknologi (S1),SMK Swasta,Pendidikan
+Qori Nugroho,P,Akuntansi,616.04,Pendidikan Islam Anak Usia Dini (S1),SMK Negeri,Teknologi
+Putri Permata,L,Teknik,773.22,Farmasi (S1),MA Swasta,Teknologi
+Rudi Rizki,L,IPS,655.03,Ilmu Komunikasi (S1),SMK Swasta,Teknologi
+Fajar Sari,L,IPA,507.23,Teknik Industri (S1),SMK Swasta,Ekonomi
+Putri Nugroho,L,Akuntansi,501.01,Pend. Matematika (S1),SMA Swasta,Hukum
+Fajar Nugroho,P,Bahasa,767.46,Ilmu Hukum (S1),SMA Negeri,Pertanian
+Gita Nugroho,P,Bahasa,477.37,Agroteknologi (S1),SMK Swasta,Pendidikan
+Putri Wulandari,P,Keagamaan,659.32,Ilmu Gizi (S1),MA Swasta,Kesehatan
+Joko Santoso,P,Bahasa,532.89,Teknik Elektro (S1),SMA Negeri,Kesehatan
+Putri Utami,L,Akuntansi,427.5,Hubungan Internasional (S1),MA Negeri,Teknologi
+Hasan Fadilah,L,IPA,717.58,Teknik Lingkungan (S1),SMK Negeri,Hukum
+Kiki Fadilah,P,Akuntansi,364.46,Teknik Informatika (S1),MA Negeri,Pertanian
+Putri Rizki,P,Akuntansi,478.39,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",MA Negeri,Agama
+Eka Utami,L,Keagamaan,495.07,Ilmu Keolahragaan (S1),SMK Swasta,Sosial Politik
+Fajar Rizki,P,IPA,641.73,Teknik Industri (S1),SMA Negeri,Pertanian
+Joko Wulandari,L,IPA,460.35,Manajemen Pendidikan Islam (S1),MA Swasta,Agama
+Joko Sari,L,Bahasa,634.68,Teknik Lingkungan (S1),MA Swasta,Teknologi
+Lia Permata,P,Teknik,518.22,Agribisnis (S1),SMK Negeri,Teknologi
+Citra Wijaya,P,IPA,523.73,Manajemen Pendidikan Islam (S1),SMA Swasta,Ekonomi
+Rudi Wulandari,L,IPA,444.53,Hubungan Internasional (S1),MA Swasta,Pertanian
+Mahmud Nugroho,P,Keagamaan,593.81,Teknik Informatika (S1),SMK Swasta,Teknologi
+Nina Nugroho,P,IPA,696.06,Ilmu Pemerintahan (S1),SMK Negeri,Teknologi
+Citra Utami,P,IPS,454.94,Teknik Mesin (S1),MA Negeri,Teknologi
+Lia Sari,P,Multimedia,544.76,Manajemen Pendidikan Islam (S1),SMK Negeri,Agama
+Siti Permata,P,Akuntansi,534.67,Ilmu Keolahragaan (S1),SMK Negeri,Teknologi
+Oki Wulandari,P,Akuntansi,568.73,Hubungan Internasional (S1),SMA Swasta,Teknologi
+Gita Rizki,L,IPA,498.4,Agribisnis (S1),MA Negeri,Pertanian
+Rudi Nugroho,L,Akuntansi,485.49,Ilmu Gizi (S1),MA Swasta,Hukum
+Ahmad Nugroho,P,Akuntansi,674.09,Manajemen Pendidikan Islam (S1),SMA Negeri,Kesehatan
+Qori Permata,L,Multimedia,641.29,Ilmu Hukum (S1),SMK Negeri,Pendidikan
+Kiki Fadilah,L,Akuntansi,410.92,Teknik Kimia (S1),SMK Negeri,Sosial Politik
+Joko Santoso,P,Bahasa,505.05,Farmasi (S1),MA Swasta,Kesehatan
+Kiki Permata,P,IPA,561.38,Hubungan Internasional (S1),MA Negeri,Pendidikan
+Nina Wijaya,L,Keagamaan,514.13,Teknik Mesin (S1),MA Swasta,Pendidikan
+Siti Fadilah,L,IPS,534.79,Pend. Matematika (S1),SMK Negeri,Hukum
+Oki Wulandari,L,Teknik,529.44,Teknik Informatika (S1),SMK Negeri,Hukum
+Gita Permata,L,IPA,634.03,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",MA Swasta,Kesehatan
+Rudi Saputra,L,Bahasa,481.68,Pend. Agama Islam (S1),MA Negeri,Hukum
+Oki Sari,P,Bahasa,642.01,Teknik Mesin (S1),SMK Negeri,Teknologi
+Nina Nugroho,L,Keagamaan,608.21,Ilmu Hukum (S1),MA Negeri,Kesehatan
+Oki Rizki,L,Multimedia,682.52,Teknik Mesin (S1),SMK Swasta,Agama
+Gita Saputra,P,IPA,509.11,Ilmu Gizi (S1),SMA Negeri,Sosial Politik
+Budi Fadilah,P,Teknik,707.81,Pendidikan Islam Anak Usia Dini (S1),MA Negeri,Pertanian
+Intan Nugroho,P,IPA,439.22,Akuntansi (S1),SMK Swasta,Sosial Politik
+Tono Santoso,P,Keagamaan,636.58,Sistem Informasi (S1),SMK Negeri,Teknologi
+Eka Utami,P,Akuntansi,520.65,Pend. Luar Sekolah (S1),MA Negeri,Kesehatan
+Gita Santoso,P,Teknik,522.9,Akuntansi (S1),SMA Swasta,Sosial Politik
+Hasan Saputra,L,IPS,559.54,Hubungan Internasional (S1),MA Negeri,Teknologi
+Fajar Rizki,P,IPS,618.23,Teknik Industri (S1),SMA Swasta,Sosial Politik
+Intan Permata,L,IPA,534.45,Teknik Elektro (S1),SMK Negeri,Pendidikan
+Qori Rizki,P,IPA,590.92,Ilmu Komunikasi (S1),SMA Swasta,Hukum
+Tono Permata,P,Multimedia,542.06,Manajemen (S1),SMA Swasta,Pertanian
+Fajar Permata,L,Multimedia,685.03,Pend. Bahasa & Sastra Indonesia (S1),MA Swasta,Kesehatan
+Siti Sari,L,Keagamaan,446.92,Ilmu Hukum (S1),MA Negeri,Hukum
+Budi Wijaya,P,Bahasa,494.84,Pendidikan Islam Anak Usia Dini (S1),SMK Swasta,Ekonomi
+Nina Utami,L,Multimedia,569.61,Ilmu Komunikasi (S1),SMK Swasta,Agama
+Gita Sari,L,Keagamaan,374.98,Teknik Mesin (S1),SMK Swasta,Hukum
+Citra Permata,L,Multimedia,400.27,Agroteknologi (S1),SMA Negeri,Ekonomi
+Tono Fadilah,L,IPS,478.77,Manajemen Pendidikan Islam (S1),SMA Swasta,Kesehatan
+Ahmad Wulandari,P,IPS,533.51,Pend. Agama Islam (S1),SMA Swasta,Sosial Politik
+Gita Permata,L,Teknik,677.42,Pend. Agama Islam (S1),SMA Negeri,Kesehatan
+Putri Utami,P,Keagamaan,561.62,Ilmu Komunikasi (S1),MA Swasta,Pertanian
+Siti Rizki,L,Akuntansi,624.85,Teknik Industri (S1),MA Negeri,Teknologi
+Lia Nugroho,P,Akuntansi,689.11,Teknik Kimia (S1),SMA Swasta,Agama
+Hasan Sari,P,IPA,573.13,Agribisnis (S1),SMA Swasta,Sosial Politik
+Oki Fadilah,L,Bahasa,510.52,Akuntansi (S1),MA Swasta,Kesehatan
+Citra Permata,P,Teknik,544.5,Teknik Mesin (S1),SMK Negeri,Pertanian
+Intan Wijaya,L,Keagamaan,562.67,Manajemen (S1),MA Swasta,Pendidikan
+Kiki Wulandari,P,IPS,694.56,Pend. Bahasa Inggris (S1),SMA Swasta,Hukum
+Ahmad Wijaya,L,Akuntansi,657.88,Teknik Industri (S1),SMA Negeri,Kesehatan
+Ahmad Utami,P,Multimedia,416.21,Pend. Matematika (S1),SMK Swasta,Kesehatan
+Hasan Saputra,L,Bahasa,599.9,Agroteknologi (S1),SMA Swasta,Kesehatan
+Intan Sari,P,IPA,684.34,Teknik Mesin (S1),MA Swasta,Pendidikan
+Gita Wulandari,L,Bahasa,534.46,Teknik Kimia (S1),MA Swasta,Pertanian
+Nina Wulandari,L,Akuntansi,623.45,Pend. Bahasa & Sastra Indonesia (S1),SMA Swasta,Teknologi
+Putri Rizki,L,Teknik,448.2,Pend. Luar Sekolah (S1),SMK Swasta,Ekonomi
+Tono Saputra,L,IPA,641.66,Pend. Bahasa Inggris (S1),MA Negeri,Hukum
+Eka Fadilah,P,IPA,550.41,Pendidikan Islam Anak Usia Dini (S1),SMK Negeri,Ekonomi
+Qori Santoso,P,Akuntansi,556.19,Teknik Kimia (S1),MA Swasta,Agama
+Mahmud Fadilah,P,Bahasa,603.25,Pend. Matematika (S1),MA Swasta,Teknologi
+Lia Nugroho,L,IPA,490.11,Pend. Agama Islam (S1),SMA Swasta,Kesehatan
+Citra Rizki,L,Multimedia,411.6,Akuntansi (S1),SMA Negeri,Sosial Politik
+Gita Saputra,L,Bahasa,535.73,Ilmu Komunikasi (S1),SMK Negeri,Agama
+Joko Permata,L,Multimedia,615.57,Pend. Luar Sekolah (S1),SMK Negeri,Hukum
+Fajar Wulandari,P,Keagamaan,552.94,Pendidikan Islam Anak Usia Dini (S1),SMA Swasta,Hukum
+Intan Utami,P,Akuntansi,625.7,Agribisnis (S1),SMK Swasta,Hukum
+Joko Santoso,L,Teknik,612.77,Ilmu Keolahragaan (S1),SMK Negeri,Pertanian
+Kiki Wijaya,L,IPS,617.51,Pend. Bahasa & Sastra Indonesia (S1),MA Swasta,Kesehatan
+Tono Wijaya,L,Keagamaan,492.49,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMA Swasta,Sosial Politik
+Dewi Permata,L,IPS,552.58,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMA Swasta,Ekonomi
+Putri Utami,P,Bahasa,293.46,Agroteknologi (S1),MA Negeri,Hukum
+Eka Saputra,L,Akuntansi,541.26,Teknik Informatika (S1),SMA Negeri,Ekonomi
+Eka Permata,P,Akuntansi,486.71,Ilmu Keolahragaan (S1),MA Swasta,Ekonomi
+Citra Wulandari,L,Akuntansi,467.99,Hubungan Internasional (S1),SMK Swasta,Kesehatan
+Tono Fadilah,L,Keagamaan,677.05,Hubungan Internasional (S1),SMA Negeri,Kesehatan
+Lia Rizki,L,IPS,545.38,Teknik Lingkungan (S1),SMA Swasta,Pendidikan
+Hasan Santoso,P,Bahasa,660.32,Agroteknologi (S1),SMK Negeri,Agama
+Siti Wulandari,P,Multimedia,556.78,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMA Swasta,Kesehatan
+Intan Sari,P,Teknik,725.27,Teknik Industri (S1),MA Swasta,Agama
+Lia Fadilah,L,Teknik,564.91,Pend. Agama Islam (S1),SMA Negeri,Pendidikan
+Rudi Wijaya,L,IPS,532.38,Pend. Agama Islam (S1),SMK Negeri,Kesehatan
+Fajar Sari,L,IPA,470.75,Akuntansi (S1),MA Swasta,Sosial Politik
+Dewi Rizki,P,Multimedia,528.85,Manajemen (S1),SMA Negeri,Hukum
+Lia Permata,L,Teknik,467.44,Pendidikan Islam Anak Usia Dini (S1),MA Swasta,Hukum
+Mahmud Saputra,P,IPS,548.65,Ilmu Gizi (S1),MA Swasta,Pertanian
+Nina Permata,P,Teknik,559.16,Sistem Informasi (S1),SMK Negeri,Hukum
+Oki Rizki,P,Keagamaan,646.58,Hubungan Internasional (S1),SMA Negeri,Sosial Politik
+Tono Santoso,P,Bahasa,570.4,Manajemen (S1),SMA Swasta,Ekonomi
+Ahmad Permata,P,IPA,504.5,Hubungan Internasional (S1),SMA Negeri,Teknologi
+Rudi Santoso,P,IPS,615.39,Pendidikan Islam Anak Usia Dini (S1),SMA Swasta,Teknologi
+Fajar Sari,L,Akuntansi,604.71,Teknik Lingkungan (S1),MA Swasta,Agama
+Budi Santoso,P,IPA,590.5,Teknik Kimia (S1),SMA Swasta,Hukum
+Joko Permata,L,IPS,637.14,Pendidikan Islam Anak Usia Dini (S1),SMK Negeri,Hukum
+Gita Wijaya,P,Akuntansi,476.79,Pend. Bahasa Inggris (S1),MA Negeri,Agama
+Nina Utami,P,Keagamaan,545.75,Pend. Bahasa & Sastra Indonesia (S1),MA Negeri,Pendidikan
+Gita Fadilah,P,IPA,733.16,Teknik Mesin (S1),MA Negeri,Pendidikan
+Oki Nugroho,P,Teknik,612.42,Pend. Matematika (S1),SMA Negeri,Hukum
+Intan Permata,L,Keagamaan,505.26,Pend. Agama Islam (S1),SMA Negeri,Agama
+Siti Nugroho,P,Akuntansi,729.81,Agroteknologi (S1),MA Swasta,Kesehatan
+Gita Santoso,L,Multimedia,537.95,Ilmu Pemerintahan (S1),SMA Swasta,Agama
+Eka Fadilah,L,Bahasa,728.32,Agribisnis (S1),SMK Negeri,Pendidikan
+Budi Wulandari,P,Multimedia,378.51,Sistem Informasi (S1),SMK Swasta,Pertanian
+Siti Wulandari,P,IPA,639.17,Ilmu Pemerintahan (S1),MA Swasta,Pertanian
+Rudi Nugroho,L,Multimedia,430.74,Ilmu Gizi (S1),MA Swasta,Agama
+Qori Rizki,P,Teknik,766.84,Agribisnis (S1),MA Swasta,Agama
+Lia Rizki,P,Akuntansi,389.0,Ilmu Keolahragaan (S1),SMK Swasta,Ekonomi
+Qori Wijaya,L,IPS,542.39,Teknik Industri (S1),MA Swasta,Sosial Politik
+Joko Santoso,P,Keagamaan,512.58,Teknik Elektro (S1),MA Swasta,Ekonomi
+Tono Rizki,L,Multimedia,599.55,Akuntansi (S1),SMK Swasta,Teknologi
+Intan Fadilah,L,Bahasa,539.82,Ilmu Pemerintahan (S1),MA Negeri,Ekonomi
+Citra Fadilah,P,Keagamaan,588.82,Teknik Elektro (S1),SMK Swasta,Agama
+Fajar Santoso,P,IPA,642.57,Pend. Bahasa Inggris (S1),SMK Swasta,Pertanian
+Tono Fadilah,L,Teknik,448.55,Ilmu Pemerintahan (S1),MA Negeri,Agama
+Rudi Permata,P,IPS,557.28,Pend. Bahasa & Sastra Indonesia (S1),SMA Negeri,Pendidikan
+Intan Rizki,P,IPA,711.9,Pend. Matematika (S1),SMK Swasta,Ekonomi
+Nina Wijaya,P,Keagamaan,580.57,Ilmu Gizi (S1),SMK Swasta,Ekonomi
+Tono Wulandari,P,IPA,402.97,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMK Negeri,Agama
+Tono Sari,L,IPA,819.85,Teknik Lingkungan (S1),MA Swasta,Kesehatan
+Lia Santoso,P,Akuntansi,690.29,Teknik Industri (S1),SMA Swasta,Pendidikan
+Kiki Rizki,L,Bahasa,580.03,Ilmu Gizi (S1),SMA Negeri,Pendidikan
+Intan Fadilah,L,Keagamaan,597.39,Manajemen (S1),MA Negeri,Teknologi
+Lia Rizki,L,Keagamaan,643.87,Sistem Informasi (S1),SMK Negeri,Kesehatan
+Nina Utami,P,Teknik,574.96,Ilmu Hukum (S1),MA Swasta,Hukum
+Lia Permata,L,Bahasa,576.58,Manajemen (S1),MA Negeri,Hukum
+Nina Rizki,L,Akuntansi,402.96,Teknik Elektro (S1),MA Negeri,Kesehatan
+Rudi Wulandari,P,Teknik,425.57,Farmasi (S1),MA Swasta,Pendidikan
+Kiki Sari,P,Keagamaan,408.3,Ilmu Hukum (S1),SMK Negeri,Sosial Politik
+Lia Fadilah,P,Keagamaan,544.92,Teknik Mesin (S1),SMA Negeri,Sosial Politik
+Citra Nugroho,P,Teknik,386.69,Teknik Kimia (S1),MA Swasta,Ekonomi
+Putri Fadilah,L,IPA,576.72,Teknik Lingkungan (S1),SMA Swasta,Agama
+Hasan Sari,L,IPA,488.96,Ilmu Keolahragaan (S1),SMA Negeri,Agama
+Tono Santoso,L,Bahasa,536.25,Akuntansi (S1),MA Swasta,Pertanian
+Rudi Fadilah,L,Teknik,489.4,Ilmu Keolahragaan (S1),SMK Negeri,Pendidikan
+Budi Wijaya,P,Keagamaan,439.19,Ilmu Hukum (S1),MA Negeri,Kesehatan
+Citra Saputra,P,Multimedia,634.78,Farmasi (S1),SMA Negeri,Kesehatan
+Oki Permata,P,IPA,409.34,Teknik Elektro (S1),MA Swasta,Teknologi
+Mahmud Sari,L,Teknik,667.16,Hubungan Internasional (S1),SMK Swasta,Hukum
+Oki Santoso,L,Bahasa,406.34,Agribisnis (S1),MA Swasta,Pertanian
+Joko Permata,P,Teknik,410.15,Pend. Bahasa & Sastra Indonesia (S1),SMA Negeri,Ekonomi
+Putri Utami,P,IPS,518.97,Hubungan Internasional (S1),MA Negeri,Sosial Politik
+Mahmud Wijaya,L,IPA,574.03,Pend. Bahasa Inggris (S1),SMA Negeri,Teknologi
+Tono Rizki,P,Akuntansi,457.58,Manajemen (S1),MA Swasta,Sosial Politik
+Fajar Santoso,P,IPA,666.28,Farmasi (S1),MA Swasta,Pertanian
+Citra Fadilah,L,Keagamaan,668.88,Ilmu Keolahragaan (S1),SMA Negeri,Agama
+Joko Permata,L,Bahasa,522.93,Teknik Mesin (S1),MA Negeri,Kesehatan
+Eka Saputra,L,IPA,507.12,Teknik Kimia (S1),SMK Negeri,Ekonomi
+Kiki Wijaya,P,IPS,701.57,Akuntansi (S1),MA Negeri,Sosial Politik
+Nina Fadilah,P,IPS,648.31,Ilmu Pemerintahan (S1),SMK Negeri,Ekonomi
+Kiki Saputra,L,Keagamaan,635.22,Manajemen Pendidikan Islam (S1),MA Swasta,Teknologi
+Nina Saputra,P,Teknik,448.56,Pendidikan Islam Anak Usia Dini (S1),SMK Negeri,Sosial Politik
+Siti Sari,L,IPA,430.25,Teknik Elektro (S1),SMK Swasta,Pendidikan
+Citra Nugroho,L,IPA,404.13,Sistem Informasi (S1),SMK Negeri,Pendidikan
+Kiki Wulandari,L,Akuntansi,338.67,Pend. Bahasa Inggris (S1),SMK Negeri,Teknologi
+Ahmad Saputra,L,IPA,657.47,Pend. Luar Sekolah (S1),SMK Swasta,Pertanian
+Intan Nugroho,L,Akuntansi,448.19,Teknik Industri (S1),SMK Negeri,Agama
+Nina Fadilah,L,IPS,533.01,Agribisnis (S1),SMA Negeri,Pendidikan
+Joko Rizki,P,Akuntansi,534.15,Teknik Industri (S1),SMK Swasta,Pendidikan
+Putri Permata,L,Keagamaan,624.2,Pend. Matematika (S1),MA Swasta,Teknologi
+Kiki Nugroho,L,Akuntansi,705.41,Ilmu Gizi (S1),MA Negeri,Hukum
+Citra Wijaya,P,Multimedia,448.6,Agroteknologi (S1),MA Negeri,Kesehatan
+Intan Wulandari,L,Multimedia,510.47,Agribisnis (S1),SMA Swasta,Kesehatan
+Putri Saputra,L,Teknik,474.11,Ilmu Gizi (S1),SMA Swasta,Teknologi
+Ahmad Sari,L,Multimedia,452.09,Ilmu Gizi (S1),MA Negeri,Teknologi
+Lia Saputra,L,Akuntansi,654.28,Ilmu Pemerintahan (S1),MA Negeri,Pertanian
+Kiki Sari,L,Akuntansi,437.65,Pend. Agama Islam (S1),MA Negeri,Teknologi
+Mahmud Sari,L,Akuntansi,437.6,Manajemen Pendidikan Islam (S1),MA Negeri,Hukum
+Hasan Rizki,P,IPA,401.39,Pend. Bahasa Inggris (S1),SMK Negeri,Pendidikan
+Rudi Rizki,P,Multimedia,618.68,Teknik Mesin (S1),MA Swasta,Pendidikan
+Siti Utami,P,Teknik,537.47,Teknik Mesin (S1),MA Swasta,Ekonomi
+Intan Permata,L,Bahasa,606.59,Pend. Matematika (S1),SMA Swasta,Agama
+Dewi Nugroho,P,IPA,438.77,Pendidikan Islam Anak Usia Dini (S1),SMK Negeri,Agama
+Fajar Rizki,P,Bahasa,460.84,Pend. Luar Sekolah (S1),SMA Swasta,Pendidikan
+Lia Permata,P,IPS,539.66,Ilmu Keolahragaan (S1),SMK Swasta,Pendidikan
+Rudi Santoso,P,Multimedia,489.97,Pend. Bahasa & Sastra Indonesia (S1),SMA Swasta,Ekonomi
+Kiki Utami,P,Keagamaan,447.95,Ilmu Gizi (S1),SMA Swasta,Pertanian
+Oki Permata,L,IPS,604.66,Teknik Lingkungan (S1),SMA Swasta,Pendidikan
+Dewi Saputra,P,IPS,724.55,Pend. Bahasa Inggris (S1),MA Swasta,Pertanian
+Tono Fadilah,P,IPA,468.93,Sistem Informasi (S1),SMA Negeri,Teknologi
+Kiki Permata,P,Multimedia,776.5,Ilmu Gizi (S1),SMA Negeri,Ekonomi
+Budi Wulandari,L,Keagamaan,453.26,Teknik Kimia (S1),SMK Swasta,Kesehatan
+Fajar Saputra,L,Keagamaan,638.11,Pend. Matematika (S1),SMA Negeri,Kesehatan
+Mahmud Nugroho,P,Keagamaan,778.76,Sistem Informasi (S1),SMK Swasta,Kesehatan
+Hasan Sari,P,Akuntansi,758.4,Pend. Bahasa & Sastra Indonesia (S1),SMA Negeri,Pertanian
+Eka Permata,L,Teknik,652.52,Pend. Matematika (S1),MA Swasta,Kesehatan
+Lia Nugroho,P,Teknik,492.04,Farmasi (S1),MA Swasta,Teknologi
+Fajar Sari,L,IPS,663.19,Teknik Informatika (S1),SMA Swasta,Sosial Politik
+Citra Wulandari,L,IPS,627.7,Teknik Elektro (S1),SMA Swasta,Hukum
+Mahmud Permata,L,Multimedia,623.92,Teknik Mesin (S1),SMA Swasta,Hukum
+Joko Wijaya,L,Keagamaan,530.6,Agribisnis (S1),SMK Negeri,Sosial Politik
+Intan Saputra,L,Keagamaan,458.93,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMK Swasta,Kesehatan
+Joko Wijaya,L,Keagamaan,610.3,Ilmu Komunikasi (S1),MA Negeri,Ekonomi
+Intan Fadilah,P,Keagamaan,640.29,Ilmu Pemerintahan (S1),SMA Swasta,Pertanian
+Qori Wulandari,L,IPA,649.73,Teknik Industri (S1),SMA Swasta,Kesehatan
+Budi Wulandari,P,IPA,632.99,Teknik Lingkungan (S1),MA Swasta,Sosial Politik
+Nina Nugroho,P,Bahasa,520.84,Ilmu Pemerintahan (S1),MA Swasta,Sosial Politik
+Ahmad Fadilah,P,IPS,546.14,Pend. Agama Islam (S1),SMA Negeri,Teknologi
+Ahmad Fadilah,L,Teknik,476.76,Pend. Bahasa Inggris (S1),SMA Negeri,Teknologi
+Putri Wulandari,L,Multimedia,654.51,Akuntansi (S1),SMA Negeri,Pertanian
+Mahmud Utami,L,Multimedia,615.79,Farmasi (S1),SMK Negeri,Hukum
+Oki Santoso,L,Akuntansi,389.06,Agroteknologi (S1),MA Negeri,Agama
+Tono Utami,P,Bahasa,566.59,Teknik Kimia (S1),SMK Negeri,Ekonomi
+Mahmud Rizki,P,Teknik,575.71,Pendidikan Islam Anak Usia Dini (S1),SMA Swasta,Hukum
+Putri Utami,P,Teknik,550.42,Pend. Matematika (S1),SMA Negeri,Hukum
+Intan Utami,P,IPS,415.62,Pend. Matematika (S1),SMA Swasta,Hukum
+Gita Wulandari,P,Keagamaan,717.03,Hubungan Internasional (S1),SMA Negeri,Ekonomi
+Qori Nugroho,P,Teknik,563.84,Pend. Bahasa & Sastra Indonesia (S1),SMK Swasta,Sosial Politik
+Dewi Nugroho,L,Akuntansi,512.27,Pend. Luar Sekolah (S1),SMK Negeri,Sosial Politik
+Oki Fadilah,P,Multimedia,364.1,Manajemen (S1),SMK Swasta,Pertanian
+Oki Wijaya,P,Bahasa,438.74,Manajemen (S1),MA Swasta,Pendidikan
+Ahmad Rizki,P,Keagamaan,698.69,Ilmu Komunikasi (S1),SMA Negeri,Pendidikan
+Oki Permata,P,IPA,690.24,Ilmu Pemerintahan (S1),SMA Swasta,Ekonomi
+Intan Wulandari,P,Teknik,648.78,Manajemen Pendidikan Islam (S1),SMK Negeri,Kesehatan
+Gita Permata,P,IPS,681.73,Pend. Agama Islam (S1),SMK Swasta,Kesehatan
+Rudi Utami,L,Teknik,615.98,Manajemen Pendidikan Islam (S1),SMA Swasta,Kesehatan
+Oki Santoso,P,Akuntansi,601.33,Farmasi (S1),MA Negeri,Sosial Politik
+Eka Nugroho,P,IPA,398.51,Pend. Bahasa Inggris (S1),SMA Swasta,Kesehatan
+Kiki Rizki,P,Teknik,680.72,Teknik Elektro (S1),SMK Swasta,Kesehatan
+Hasan Rizki,L,IPS,384.4,Manajemen Pendidikan Islam (S1),SMA Negeri,Hukum
+Nina Nugroho,L,Keagamaan,506.96,Ilmu Hukum (S1),SMA Swasta,Hukum
+Lia Fadilah,L,IPA,537.06,Pendidikan Islam Anak Usia Dini (S1),SMA Swasta,Hukum
+Hasan Wulandari,L,Teknik,730.75,Ilmu Hukum (S1),MA Swasta,Hukum
+Ahmad Utami,L,IPA,590.79,Ilmu Komunikasi (S1),SMK Swasta,Hukum
+Intan Saputra,L,IPS,547.75,Manajemen (S1),SMK Swasta,Ekonomi
+Oki Sari,L,Bahasa,637.75,Hubungan Internasional (S1),SMA Negeri,Teknologi
+Joko Wulandari,P,Multimedia,396.85,Pend. Matematika (S1),SMK Swasta,Agama
+Oki Utami,P,IPA,573.2,Teknik Industri (S1),MA Negeri,Teknologi
+Kiki Wijaya,P,Keagamaan,625.02,Sistem Informasi (S1),MA Swasta,Sosial Politik
+Kiki Rizki,L,Multimedia,375.33,Teknik Industri (S1),SMK Negeri,Pertanian
+Eka Permata,L,Bahasa,593.81,Ilmu Gizi (S1),SMK Negeri,Hukum
+Hasan Utami,P,Teknik,600.57,Teknik Industri (S1),MA Negeri,Sosial Politik
+Qori Permata,L,Teknik,459.72,Teknik Informatika (S1),SMK Negeri,Kesehatan
+Oki Wulandari,P,Teknik,294.06,Agroteknologi (S1),SMK Negeri,Sosial Politik
+Joko Wulandari,P,Keagamaan,500.78,Pend. Bahasa & Sastra Indonesia (S1),SMA Swasta,Pendidikan
+Rudi Sari,L,Teknik,592.27,Teknik Informatika (S1),SMK Negeri,Sosial Politik
+Putri Wijaya,P,Teknik,767.3,Agroteknologi (S1),SMA Swasta,Kesehatan
+Nina Rizki,L,Teknik,664.33,Teknik Mesin (S1),MA Negeri,Pertanian
+Eka Permata,P,Teknik,551.06,Pend. Agama Islam (S1),SMA Swasta,Teknologi
+Lia Saputra,P,Akuntansi,514.32,Hubungan Internasional (S1),SMK Swasta,Pendidikan
+Nina Sari,P,IPS,537.04,Teknik Informatika (S1),SMK Negeri,Hukum
+Intan Fadilah,L,Keagamaan,619.38,Farmasi (S1),MA Swasta,Kesehatan
+Budi Fadilah,P,IPA,553.05,Teknik Informatika (S1),SMA Swasta,Teknologi
+Intan Permata,L,Bahasa,490.57,Agroteknologi (S1),SMK Swasta,Hukum
+Qori Wijaya,P,Teknik,646.83,Ilmu Keolahragaan (S1),SMA Swasta,Pertanian
+Gita Sari,L,IPA,506.84,Pend. Luar Sekolah (S1),SMK Swasta,Teknologi
+Dewi Rizki,P,Multimedia,737.52,Agribisnis (S1),SMK Swasta,Ekonomi
+Lia Rizki,L,Keagamaan,385.7,Teknik Industri (S1),MA Negeri,Pertanian
+Eka Rizki,L,Keagamaan,609.98,Manajemen (S1),SMK Swasta,Pertanian
+Citra Santoso,P,Akuntansi,664.01,Pend. Bahasa & Sastra Indonesia (S1),SMA Negeri,Pendidikan
+Siti Utami,L,Bahasa,490.98,Pend. Bahasa & Sastra Indonesia (S1),SMA Negeri,Pendidikan
+Nina Fadilah,L,IPS,547.65,Ilmu Keolahragaan (S1),SMA Negeri,Pertanian
+Lia Permata,P,IPS,602.41,Ilmu Komunikasi (S1),MA Swasta,Pertanian
+Eka Permata,L,Teknik,630.47,Agribisnis (S1),MA Swasta,Hukum
+Oki Fadilah,L,Keagamaan,536.25,Ilmu Pemerintahan (S1),SMA Swasta,Teknologi
+Eka Wijaya,P,Akuntansi,490.89,Teknik Informatika (S1),SMA Swasta,Hukum
+Nina Wijaya,L,Keagamaan,524.15,Manajemen (S1),MA Swasta,Sosial Politik
+Budi Nugroho,P,Multimedia,511.1,Agribisnis (S1),SMK Negeri,Pertanian
+Mahmud Wijaya,P,Bahasa,441.45,Pendidikan Islam Anak Usia Dini (S1),SMA Negeri,Ekonomi
+Ahmad Wulandari,L,Keagamaan,549.07,Farmasi (S1),MA Swasta,Teknologi
+Budi Saputra,P,Teknik,488.29,Pend. Matematika (S1),SMK Negeri,Hukum
+Dewi Nugroho,L,Multimedia,543.68,Teknik Industri (S1),SMK Negeri,Ekonomi
+Citra Permata,P,Multimedia,637.97,Farmasi (S1),SMK Swasta,Pertanian
+Putri Wulandari,L,Akuntansi,664.98,Ilmu Hukum (S1),SMK Negeri,Pertanian
+Oki Rizki,P,Akuntansi,669.42,Ilmu Komunikasi (S1),MA Negeri,Pertanian
+Nina Wulandari,P,IPA,603.68,Akuntansi (S1),MA Swasta,Ekonomi
+Hasan Santoso,L,IPA,509.66,Farmasi (S1),SMK Swasta,Kesehatan
+Oki Permata,L,IPS,526.68,"Pend. Jasmani, Kesehatan & Rekreasi (S1)",SMA Negeri,Teknologi
+Putri Utami,L,Keagamaan,590.61,Teknik Mesin (S1),SMA Swasta,Teknologi
+Budi Permata,L,Multimedia,587.85,Teknik Lingkungan (S1),MA Negeri,Hukum
+Qori Nugroho,L,IPA,412.95,Ilmu Komunikasi (S1),SMA Negeri,Teknologi
+Gita Santoso,L,IPA,505.57,Farmasi (S1),SMK Negeri,Kesehatan
+Oki Utami,P,Akuntansi,590.16,Agribisnis (S1),SMA Negeri,Pendidikan
+Nina Wijaya,L,IPA,583.55,Farmasi (S1),MA Negeri,Ekonomi
+Eka Permata,L,Akuntansi,650.34,Pend. Bahasa & Sastra Indonesia (S1),SMA Swasta,Ekonomi
+Kiki Permata,P,Keagamaan,670.04,Ilmu Keolahragaan (S1),SMA Swasta,Teknologi
+Fajar Saputra,P,Akuntansi,682.7,Agroteknologi (S1),SMK Negeri,Sosial Politik
+Kiki Fadilah,L,Teknik,604.14,Ilmu Pemerintahan (S1),SMA Negeri,Teknologi
+Dewi Rizki,P,IPS,472.71,Pendidikan Islam Anak Usia Dini (S1),SMK Swasta,Teknologi
+Gita Sari,P,Multimedia,661.33,Pend. Luar Sekolah (S1),MA Negeri,Teknologi
+Rudi Permata,P,IPA,417.35,Ilmu Keolahragaan (S1),SMK Swasta,Ekonomi
+Tono Nugroho,P,Multimedia,645.9,Ilmu Hukum (S1),SMA Swasta,Pertanian
+Nina Saputra,L,Keagamaan,356.73,Ilmu Gizi (S1),SMK Swasta,Kesehatan
+Oki Fadilah,P,Bahasa,685.39,Farmasi (S1),SMK Negeri,Teknologi
+Joko Nugroho,L,Multimedia,450.42,Ilmu Hukum (S1),MA Negeri,Pertanian
+Fajar Wulandari,L,IPS,538.11,Sistem Informasi (S1),SMA Swasta,Hukum
+Qori Fadilah,P,Keagamaan,701.4,Farmasi (S1),SMK Swasta,Ekonomi
+Oki Rizki,P,Bahasa,555.77,Akuntansi (S1),SMA Swasta,Hukum
+Ahmad Wijaya,P,Bahasa,573.74,Pend. Agama Islam (S1),SMK Swasta,Ekonomi
+Budi Utami,P,Keagamaan,587.78,Ilmu Komunikasi (S1),MA Negeri,Hukum
+Citra Santoso,P,Akuntansi,404.92,Ilmu Keolahragaan (S1),MA Negeri,Kesehatan
+Citra Wulandari,L,Multimedia,532.53,Pend. Luar Sekolah (S1),MA Negeri,Ekonomi
+Rudi Wulandari,L,Akuntansi,573.46,Manajemen Pendidikan Islam (S1),MA Negeri,Agama
+Fajar Wijaya,P,Multimedia,536.3,Akuntansi (S1),MA Swasta,Agama
+Fajar Sari,L,Multimedia,543.87,Teknik Informatika (S1),SMK Swasta,Sosial Politik
+Intan Sari,L,Keagamaan,737.57,Akuntansi (S1),SMK Swasta,Pertanian
